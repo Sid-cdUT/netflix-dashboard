@@ -1,0 +1,1001 @@
+Impression_ID,User_Segment,Title_Genre,Artwork_Variant,Visual_Focus,Impressions,Clicks,Churn_Status,Time_Spent_on_Service
+1,Sci-Fi Enthusiast,Sci-Fi,Variant_C,Couple/Intimacy,5496,267,Churned,18.2
+2,Sci-Fi Enthusiast,Drama,Variant_A,Explosion/Action,6523,832,Active,144.1
+3,Sci-Fi Enthusiast,Documentary,Variant_B,Cast Ensemble,6579,379,Churned,12.7
+4,Action Seeker,Documentary,Variant_D,Solo Lead/Moody,5542,694,Churned,12.7
+5,Sci-Fi Enthusiast,Documentary,Variant_D,Solo Lead/Moody,5241,581,Churned,6.4
+6,Documentary Lover,Comedy,Variant_A,Cast Ensemble,4437,443,Churned,16.6
+7,Comedy Buff,Comedy,Variant_C,Cast Ensemble,4091,801,Active,186.6
+8,Sci-Fi Enthusiast,Action,Variant_A,Solo Lead/Moody,4774,241,Churned,7.9
+9,Comedy Buff,Drama,Variant_B,Cast Ensemble,4455,673,Active,121.2
+10,Documentary Lover,Comedy,Variant_A,Couple/Intimacy,5375,236,Churned,13.5
+11,Action Seeker,Comedy,Variant_D,Solo Lead/Moody,4398,301,Churned,14.9
+12,Comedy Buff,Documentary,Variant_C,Cast Ensemble,3942,623,Active,119.5
+13,Documentary Lover,Drama,Variant_B,Couple/Intimacy,5208,470,Churned,8.4
+14,Comedy Buff,Drama,Variant_B,Solo Lead/Moody,5196,298,Churned,15.9
+15,Sci-Fi Enthusiast,Documentary,Variant_A,Solo Lead/Moody,4884,620,Churned,7.6
+16,Sci-Fi Enthusiast,Documentary,Variant_C,Couple/Intimacy,4280,194,Churned,20.3
+17,Action Seeker,Action,Variant_B,Solo Lead/Moody,5343,172,Active,158.1
+18,Comedy Buff,Drama,Variant_D,Explosion/Action,4614,199,Churned,18.1
+19,Documentary Lover,Drama,Variant_D,Cast Ensemble,6030,357,Churned,10.8
+20,Sci-Fi Enthusiast,Documentary,Variant_B,Explosion/Action,4690,625,Active,174.4
+21,Action Seeker,Action,Variant_D,Solo Lead/Moody,4520,217,Churned,9.5
+22,Sci-Fi Enthusiast,Sci-Fi,Variant_C,Solo Lead/Moody,3803,373,Active,183.9
+23,Action Seeker,Documentary,Variant_D,Cast Ensemble,4927,295,Churned,16.8
+24,Comedy Buff,Drama,Variant_B,Cast Ensemble,4354,668,Active,188.5
+25,Comedy Buff,Drama,Variant_B,Couple/Intimacy,4964,623,Churned,1.9
+26,Documentary Lover,Drama,Variant_A,Solo Lead/Moody,5821,994,Active,142.5
+27,Sci-Fi Enthusiast,Comedy,Variant_C,Couple/Intimacy,5091,153,Active,144.5
+28,Sci-Fi Enthusiast,Sci-Fi,Variant_D,Cast Ensemble,5357,347,Churned,12.4
+29,Documentary Lover,Documentary,Variant_D,Couple/Intimacy,4191,188,Churned,19.6
+30,Action Seeker,Documentary,Variant_B,Solo Lead/Moody,5328,664,Churned,17.6
+31,Comedy Buff,Action,Variant_D,Cast Ensemble,5097,813,Active,132.4
+32,Sci-Fi Enthusiast,Comedy,Variant_A,Couple/Intimacy,4672,215,Churned,7.7
+33,Sci-Fi Enthusiast,Sci-Fi,Variant_A,Couple/Intimacy,5296,278,Active,150.1
+34,Sci-Fi Enthusiast,Comedy,Variant_A,Couple/Intimacy,4765,170,Churned,12.9
+35,Action Seeker,Documentary,Variant_B,Explosion/Action,4657,754,Active,146.0
+36,Action Seeker,Action,Variant_B,Cast Ensemble,5404,372,Active,154.4
+37,Action Seeker,Comedy,Variant_D,Explosion/Action,5257,889,Active,102.0
+38,Sci-Fi Enthusiast,Sci-Fi,Variant_A,Explosion/Action,4973,649,Churned,27.3
+39,Sci-Fi Enthusiast,Documentary,Variant_B,Couple/Intimacy,4807,254,Churned,14.8
+40,Documentary Lover,Action,Variant_B,Solo Lead/Moody,3831,695,Active,168.8
+41,Sci-Fi Enthusiast,Action,Variant_A,Cast Ensemble,5791,236,Churned,22.0
+42,Sci-Fi Enthusiast,Sci-Fi,Variant_B,Couple/Intimacy,3598,201,Churned,26.0
+43,Action Seeker,Documentary,Variant_D,Cast Ensemble,4009,177,Active,152.5
+44,Sci-Fi Enthusiast,Action,Variant_C,Explosion/Action,4496,784,Active,151.7
+45,Action Seeker,Documentary,Variant_B,Solo Lead/Moody,3937,530,Churned,10.4
+46,Sci-Fi Enthusiast,Drama,Variant_A,Solo Lead/Moody,6549,276,Active,141.9
+47,Action Seeker,Drama,Variant_B,Cast Ensemble,5813,219,Churned,16.1
+48,Sci-Fi Enthusiast,Documentary,Variant_A,Cast Ensemble,6307,213,Churned,15.9
+49,Documentary Lover,Action,Variant_A,Couple/Intimacy,5259,304,Churned,8.8
+50,Sci-Fi Enthusiast,Drama,Variant_A,Explosion/Action,3679,497,Churned,16.5
+51,Comedy Buff,Comedy,Variant_B,Solo Lead/Moody,5250,280,Churned,11.6
+52,Action Seeker,Documentary,Variant_C,Explosion/Action,5232,904,Active,132.1
+53,Sci-Fi Enthusiast,Sci-Fi,Variant_D,Cast Ensemble,6865,375,Active,120.2
+54,Documentary Lover,Drama,Variant_C,Couple/Intimacy,5656,567,Churned,18.9
+55,Sci-Fi Enthusiast,Documentary,Variant_C,Solo Lead/Moody,6158,750,Churned,19.8
+56,Comedy Buff,Drama,Variant_A,Solo Lead/Moody,5412,315,Churned,24.5
+57,Sci-Fi Enthusiast,Documentary,Variant_C,Cast Ensemble,4754,201,Churned,10.6
+58,Documentary Lover,Comedy,Variant_C,Couple/Intimacy,4184,205,Churned,16.7
+59,Documentary Lover,Comedy,Variant_D,Solo Lead/Moody,5276,940,Churned,15.1
+60,Sci-Fi Enthusiast,Sci-Fi,Variant_D,Solo Lead/Moody,6453,563,Active,218.0
+61,Comedy Buff,Documentary,Variant_C,Couple/Intimacy,5625,233,Churned,9.6
+62,Action Seeker,Drama,Variant_A,Cast Ensemble,5482,261,Active,167.9
+63,Documentary Lover,Drama,Variant_A,Solo Lead/Moody,5473,926,Active,128.8
+64,Documentary Lover,Action,Variant_B,Cast Ensemble,3485,158,Churned,19.3
+65,Sci-Fi Enthusiast,Comedy,Variant_B,Couple/Intimacy,5214,195,Churned,15.9
+66,Comedy Buff,Drama,Variant_D,Couple/Intimacy,5385,544,Churned,15.8
+67,Documentary Lover,Documentary,Variant_B,Explosion/Action,5058,195,Active,158.9
+68,Comedy Buff,Action,Variant_B,Solo Lead/Moody,5560,338,Churned,20.3
+69,Sci-Fi Enthusiast,Action,Variant_A,Explosion/Action,3622,654,Active,162.9
+70,Action Seeker,Comedy,Variant_C,Couple/Intimacy,5513,304,Churned,34.3
+71,Documentary Lover,Action,Variant_C,Solo Lead/Moody,5570,1010,Churned,19.8
+72,Comedy Buff,Comedy,Variant_D,Solo Lead/Moody,5651,264,Churned,18.8
+73,Sci-Fi Enthusiast,Comedy,Variant_B,Solo Lead/Moody,4227,201,Active,137.9
+74,Action Seeker,Comedy,Variant_C,Explosion/Action,5081,981,Active,103.3
+75,Sci-Fi Enthusiast,Action,Variant_B,Solo Lead/Moody,5686,192,Active,138.2
+76,Action Seeker,Sci-Fi,Variant_B,Solo Lead/Moody,6088,551,Churned,9.6
+77,Comedy Buff,Drama,Variant_C,Cast Ensemble,4284,671,Active,131.7
+78,Comedy Buff,Drama,Variant_C,Explosion/Action,5216,263,Churned,11.7
+79,Comedy Buff,Drama,Variant_B,Couple/Intimacy,7143,831,Churned,4.9
+80,Action Seeker,Documentary,Variant_C,Explosion/Action,5186,847,Active,171.3
+81,Sci-Fi Enthusiast,Comedy,Variant_C,Couple/Intimacy,4207,205,Churned,17.5
+82,Comedy Buff,Action,Variant_D,Explosion/Action,5865,574,Churned,13.3
+83,Action Seeker,Documentary,Variant_A,Solo Lead/Moody,4525,558,Churned,23.8
+84,Comedy Buff,Sci-Fi,Variant_B,Solo Lead/Moody,5404,418,Churned,19.6
+85,Documentary Lover,Documentary,Variant_A,Cast Ensemble,7122,429,Active,112.0
+86,Action Seeker,Drama,Variant_A,Explosion/Action,4515,824,Active,132.3
+87,Documentary Lover,Action,Variant_D,Explosion/Action,5443,640,Churned,10.4
+88,Sci-Fi Enthusiast,Sci-Fi,Variant_D,Couple/Intimacy,4940,86,Active,124.4
+89,Action Seeker,Sci-Fi,Variant_B,Cast Ensemble,4747,178,Churned,23.2
+90,Action Seeker,Drama,Variant_C,Explosion/Action,3569,591,Active,153.3
+91,Action Seeker,Drama,Variant_D,Couple/Intimacy,6441,616,Churned,20.8
+92,Action Seeker,Action,Variant_C,Couple/Intimacy,5010,201,Churned,17.3
+93,Comedy Buff,Drama,Variant_D,Couple/Intimacy,5199,540,Churned,15.3
+94,Sci-Fi Enthusiast,Comedy,Variant_B,Solo Lead/Moody,4614,235,Churned,18.3
+95,Sci-Fi Enthusiast,Documentary,Variant_B,Couple/Intimacy,6586,247,Churned,25.7
+96,Documentary Lover,Documentary,Variant_A,Explosion/Action,3047,147,Churned,17.9
+97,Action Seeker,Action,Variant_A,Couple/Intimacy,5280,231,Churned,14.0
+98,Action Seeker,Drama,Variant_A,Explosion/Action,4506,739,Active,171.2
+99,Comedy Buff,Comedy,Variant_D,Explosion/Action,5357,230,Churned,19.5
+100,Documentary Lover,Action,Variant_B,Solo Lead/Moody,5307,945,Active,165.7
+101,Sci-Fi Enthusiast,Action,Variant_C,Explosion/Action,4171,769,Churned,18.7
+102,Action Seeker,Documentary,Variant_A,Explosion/Action,5610,952,Active,152.9
+103,Sci-Fi Enthusiast,Sci-Fi,Variant_D,Couple/Intimacy,6277,276,Churned,17.7
+104,Documentary Lover,Sci-Fi,Variant_C,Explosion/Action,4797,229,Churned,20.5
+105,Action Seeker,Comedy,Variant_C,Explosion/Action,5825,1037,Active,182.6
+106,Action Seeker,Comedy,Variant_A,Explosion/Action,5021,887,Active,142.2
+107,Sci-Fi Enthusiast,Comedy,Variant_B,Cast Ensemble,5324,578,Churned,15.5
+108,Sci-Fi Enthusiast,Sci-Fi,Variant_B,Couple/Intimacy,5595,233,Churned,25.5
+109,Documentary Lover,Documentary,Variant_B,Explosion/Action,3993,151,Churned,20.8
+110,Documentary Lover,Action,Variant_C,Solo Lead/Moody,5791,1020,Active,165.7
+111,Sci-Fi Enthusiast,Documentary,Variant_C,Cast Ensemble,4987,204,Churned,15.4
+112,Comedy Buff,Drama,Variant_D,Explosion/Action,4322,258,Churned,14.3
+113,Documentary Lover,Sci-Fi,Variant_B,Cast Ensemble,4174,195,Churned,17.1
+114,Comedy Buff,Drama,Variant_A,Cast Ensemble,4436,628,Active,156.1
+115,Action Seeker,Comedy,Variant_A,Solo Lead/Moody,5244,235,Active,138.2
+116,Action Seeker,Action,Variant_A,Explosion/Action,5232,1127,Churned,8.0
+117,Action Seeker,Documentary,Variant_D,Couple/Intimacy,4281,204,Churned,16.6
+118,Comedy Buff,Drama,Variant_D,Explosion/Action,6475,379,Churned,14.2
+119,Comedy Buff,Comedy,Variant_B,Cast Ensemble,4980,995,Active,149.5
+120,Action Seeker,Documentary,Variant_D,Explosion/Action,4711,816,Active,129.3
+121,Action Seeker,Comedy,Variant_B,Explosion/Action,5519,1022,Active,147.3
+122,Comedy Buff,Comedy,Variant_C,Solo Lead/Moody,5401,307,Churned,13.0
+123,Documentary Lover,Sci-Fi,Variant_B,Explosion/Action,5224,261,Churned,15.5
+124,Documentary Lover,Action,Variant_D,Explosion/Action,4226,465,Churned,17.5
+125,Sci-Fi Enthusiast,Comedy,Variant_B,Explosion/Action,6451,900,Churned,25.8
+126,Comedy Buff,Drama,Variant_C,Explosion/Action,4232,248,Churned,15.9
+127,Comedy Buff,Action,Variant_C,Solo Lead/Moody,7189,301,Churned,10.8
+128,Comedy Buff,Comedy,Variant_C,Couple/Intimacy,4400,126,Active,136.9
+129,Documentary Lover,Comedy,Variant_A,Couple/Intimacy,4240,218,Active,158.5
+130,Action Seeker,Comedy,Variant_C,Cast Ensemble,6876,821,Churned,12.1
+131,Comedy Buff,Documentary,Variant_C,Couple/Intimacy,4101,225,Churned,8.4
+132,Documentary Lover,Comedy,Variant_A,Cast Ensemble,6831,831,Churned,12.7
+133,Documentary Lover,Action,Variant_A,Cast Ensemble,3286,208,Churned,14.4
+134,Action Seeker,Action,Variant_D,Solo Lead/Moody,6237,212,Churned,12.0
+135,Sci-Fi Enthusiast,Comedy,Variant_D,Cast Ensemble,5005,552,Churned,12.7
+136,Action Seeker,Action,Variant_A,Cast Ensemble,5622,221,Active,146.4
+137,Comedy Buff,Sci-Fi,Variant_B,Cast Ensemble,5120,794,Active,167.8
+138,Action Seeker,Drama,Variant_B,Explosion/Action,3875,599,Active,181.9
+139,Action Seeker,Comedy,Variant_D,Solo Lead/Moody,5332,226,Churned,22.8
+140,Sci-Fi Enthusiast,Drama,Variant_A,Couple/Intimacy,5115,622,Churned,15.3
+141,Comedy Buff,Sci-Fi,Variant_B,Couple/Intimacy,7060,476,Active,143.8
+142,Sci-Fi Enthusiast,Documentary,Variant_A,Explosion/Action,5971,814,Active,184.2
+143,Action Seeker,Comedy,Variant_A,Couple/Intimacy,4035,229,Churned,20.3
+144,Comedy Buff,Action,Variant_A,Couple/Intimacy,3241,123,Churned,4.8
+145,Documentary Lover,Action,Variant_A,Couple/Intimacy,4730,270,Churned,22.5
+146,Comedy Buff,Documentary,Variant_A,Cast Ensemble,5074,843,Active,115.5
+147,Comedy Buff,Drama,Variant_C,Explosion/Action,3296,162,Churned,16.9
+148,Comedy Buff,Action,Variant_C,Explosion/Action,4967,443,Churned,14.6
+149,Sci-Fi Enthusiast,Action,Variant_C,Solo Lead/Moody,3695,209,Active,159.2
+150,Documentary Lover,Drama,Variant_A,Solo Lead/Moody,4060,669,Active,123.5
+151,Documentary Lover,Action,Variant_D,Solo Lead/Moody,4937,886,Active,125.4
+152,Action Seeker,Action,Variant_A,Explosion/Action,5504,1236,Active,130.2
+153,Comedy Buff,Comedy,Variant_A,Couple/Intimacy,4892,193,Churned,12.2
+154,Action Seeker,Comedy,Variant_D,Cast Ensemble,3802,492,Churned,15.2
+155,Comedy Buff,Comedy,Variant_C,Cast Ensemble,4300,912,Churned,14.4
+156,Action Seeker,Drama,Variant_A,Explosion/Action,4779,841,Active,168.9
+157,Documentary Lover,Drama,Variant_C,Explosion/Action,4469,197,Churned,13.6
+158,Sci-Fi Enthusiast,Documentary,Variant_C,Couple/Intimacy,2698,94,Churned,21.8
+159,Action Seeker,Action,Variant_A,Cast Ensemble,6644,315,Churned,17.9
+160,Documentary Lover,Documentary,Variant_C,Cast Ensemble,5311,429,Churned,20.6
+161,Sci-Fi Enthusiast,Documentary,Variant_A,Explosion/Action,4872,586,Churned,7.0
+162,Documentary Lover,Action,Variant_C,Solo Lead/Moody,5203,845,Active,114.4
+163,Action Seeker,Action,Variant_B,Explosion/Action,4353,954,Active,192.2
+164,Action Seeker,Documentary,Variant_B,Cast Ensemble,5881,293,Churned,22.4
+165,Action Seeker,Comedy,Variant_C,Cast Ensemble,5077,514,Churned,22.6
+166,Comedy Buff,Drama,Variant_D,Couple/Intimacy,5538,551,Churned,14.0
+167,Action Seeker,Comedy,Variant_C,Explosion/Action,4124,644,Active,173.2
+168,Comedy Buff,Documentary,Variant_B,Explosion/Action,6909,248,Churned,17.8
+169,Action Seeker,Sci-Fi,Variant_C,Explosion/Action,4349,718,Active,135.2
+170,Action Seeker,Action,Variant_B,Explosion/Action,4136,953,Churned,10.8
+171,Documentary Lover,Drama,Variant_C,Cast Ensemble,5270,260,Churned,13.8
+172,Action Seeker,Sci-Fi,Variant_D,Cast Ensemble,4092,180,Churned,18.8
+173,Action Seeker,Documentary,Variant_A,Explosion/Action,5500,881,Active,152.5
+174,Comedy Buff,Comedy,Variant_D,Cast Ensemble,5751,1111,Active,163.6
+175,Action Seeker,Comedy,Variant_D,Cast Ensemble,4337,501,Churned,11.2
+176,Documentary Lover,Comedy,Variant_B,Cast Ensemble,3195,299,Churned,15.2
+177,Sci-Fi Enthusiast,Sci-Fi,Variant_D,Couple/Intimacy,5259,215,Churned,18.2
+178,Sci-Fi Enthusiast,Sci-Fi,Variant_C,Cast Ensemble,3338,164,Churned,8.9
+179,Comedy Buff,Action,Variant_B,Couple/Intimacy,4348,219,Churned,10.7
+180,Documentary Lover,Documentary,Variant_B,Cast Ensemble,4615,277,Churned,12.1
+181,Action Seeker,Drama,Variant_B,Explosion/Action,5835,926,Churned,17.6
+182,Documentary Lover,Documentary,Variant_D,Solo Lead/Moody,6441,1451,Active,130.1
+183,Sci-Fi Enthusiast,Action,Variant_C,Couple/Intimacy,5577,267,Active,159.3
+184,Comedy Buff,Drama,Variant_C,Explosion/Action,4396,223,Churned,14.2
+185,Action Seeker,Comedy,Variant_B,Explosion/Action,6167,1064,Churned,16.7
+186,Sci-Fi Enthusiast,Documentary,Variant_D,Solo Lead/Moody,4588,574,Churned,12.8
+187,Comedy Buff,Sci-Fi,Variant_D,Solo Lead/Moody,5394,462,Active,157.2
+188,Sci-Fi Enthusiast,Drama,Variant_D,Solo Lead/Moody,7075,415,Churned,13.4
+189,Documentary Lover,Drama,Variant_C,Couple/Intimacy,6201,656,Churned,4.8
+190,Comedy Buff,Documentary,Variant_A,Cast Ensemble,3991,523,Active,141.2
+191,Action Seeker,Sci-Fi,Variant_C,Couple/Intimacy,5018,335,Active,158.2
+192,Comedy Buff,Comedy,Variant_D,Couple/Intimacy,4780,278,Churned,3.9
+193,Comedy Buff,Drama,Variant_C,Couple/Intimacy,5235,616,Churned,7.6
+194,Action Seeker,Comedy,Variant_C,Cast Ensemble,6143,696,Churned,12.9
+195,Sci-Fi Enthusiast,Documentary,Variant_B,Explosion/Action,5632,860,Churned,15.9
+196,Comedy Buff,Sci-Fi,Variant_D,Cast Ensemble,5248,763,Active,128.8
+197,Sci-Fi Enthusiast,Action,Variant_C,Solo Lead/Moody,5830,241,Churned,15.4
+198,Comedy Buff,Sci-Fi,Variant_B,Explosion/Action,4522,247,Active,158.3
+199,Comedy Buff,Drama,Variant_B,Cast Ensemble,6037,874,Active,143.3
+200,Action Seeker,Comedy,Variant_D,Cast Ensemble,4021,424,Active,159.4
+201,Sci-Fi Enthusiast,Comedy,Variant_D,Cast Ensemble,5756,580,Active,171.7
+202,Documentary Lover,Action,Variant_D,Solo Lead/Moody,6355,1106,Active,196.9
+203,Action Seeker,Drama,Variant_B,Explosion/Action,4226,665,Active,105.5
+204,Action Seeker,Drama,Variant_D,Solo Lead/Moody,6496,367,Active,148.6
+205,Comedy Buff,Documentary,Variant_D,Explosion/Action,5279,204,Churned,27.2
+206,Comedy Buff,Sci-Fi,Variant_C,Solo Lead/Moody,5129,467,Active,168.1
+207,Comedy Buff,Documentary,Variant_A,Explosion/Action,5481,286,Active,130.2
+208,Documentary Lover,Drama,Variant_A,Cast Ensemble,5471,376,Churned,21.7
+209,Documentary Lover,Documentary,Variant_B,Cast Ensemble,6593,295,Churned,10.1
+210,Documentary Lover,Drama,Variant_B,Couple/Intimacy,4874,538,Churned,20.5
+211,Documentary Lover,Drama,Variant_A,Solo Lead/Moody,3307,612,Churned,14.2
+212,Documentary Lover,Documentary,Variant_C,Couple/Intimacy,4573,182,Active,108.6
+213,Sci-Fi Enthusiast,Documentary,Variant_A,Solo Lead/Moody,5823,761,Churned,8.6
+214,Documentary Lover,Drama,Variant_C,Cast Ensemble,3704,172,Active,191.7
+215,Sci-Fi Enthusiast,Documentary,Variant_D,Cast Ensemble,4740,165,Churned,13.8
+216,Action Seeker,Action,Variant_C,Cast Ensemble,4727,108,Churned,14.7
+217,Documentary Lover,Drama,Variant_A,Solo Lead/Moody,4769,843,Active,196.2
+218,Sci-Fi Enthusiast,Sci-Fi,Variant_D,Explosion/Action,6126,779,Active,122.3
+219,Sci-Fi Enthusiast,Action,Variant_D,Cast Ensemble,7573,383,Churned,15.1
+220,Comedy Buff,Drama,Variant_B,Cast Ensemble,4975,756,Active,146.4
+221,Comedy Buff,Action,Variant_C,Explosion/Action,4426,462,Churned,14.8
+222,Action Seeker,Sci-Fi,Variant_A,Couple/Intimacy,4456,191,Churned,15.5
+223,Documentary Lover,Action,Variant_C,Explosion/Action,4745,593,Churned,1.7
+224,Sci-Fi Enthusiast,Comedy,Variant_D,Solo Lead/Moody,6091,380,Churned,4.6
+225,Comedy Buff,Documentary,Variant_D,Cast Ensemble,4657,681,Active,114.8
+226,Sci-Fi Enthusiast,Sci-Fi,Variant_D,Cast Ensemble,4222,164,Churned,23.8
+227,Comedy Buff,Documentary,Variant_A,Solo Lead/Moody,5935,847,Churned,18.6
+228,Action Seeker,Comedy,Variant_D,Cast Ensemble,3870,405,Churned,17.4
+229,Comedy Buff,Comedy,Variant_A,Couple/Intimacy,3777,215,Active,144.0
+230,Action Seeker,Documentary,Variant_A,Solo Lead/Moody,4625,634,Churned,17.2
+231,Comedy Buff,Sci-Fi,Variant_C,Couple/Intimacy,4639,285,Churned,9.6
+232,Sci-Fi Enthusiast,Drama,Variant_C,Cast Ensemble,5615,314,Active,142.3
+233,Comedy Buff,Comedy,Variant_C,Cast Ensemble,5326,1051,Active,173.1
+234,Documentary Lover,Drama,Variant_D,Cast Ensemble,4815,215,Active,176.2
+235,Sci-Fi Enthusiast,Sci-Fi,Variant_B,Explosion/Action,4295,497,Active,111.1
+236,Comedy Buff,Documentary,Variant_C,Solo Lead/Moody,5606,656,Churned,23.8
+237,Sci-Fi Enthusiast,Sci-Fi,Variant_B,Couple/Intimacy,2918,195,Churned,16.1
+238,Sci-Fi Enthusiast,Sci-Fi,Variant_C,Explosion/Action,4903,610,Churned,17.0
+239,Action Seeker,Drama,Variant_D,Explosion/Action,4962,898,Active,152.9
+240,Sci-Fi Enthusiast,Comedy,Variant_D,Cast Ensemble,5150,547,Churned,14.7
+241,Action Seeker,Drama,Variant_C,Cast Ensemble,5307,174,Active,116.3
+242,Sci-Fi Enthusiast,Sci-Fi,Variant_B,Solo Lead/Moody,5743,526,Churned,14.1
+243,Documentary Lover,Comedy,Variant_C,Solo Lead/Moody,5018,870,Active,136.5
+244,Action Seeker,Action,Variant_B,Couple/Intimacy,4221,219,Churned,10.1
+245,Documentary Lover,Drama,Variant_C,Cast Ensemble,5408,178,Churned,20.1
+246,Sci-Fi Enthusiast,Action,Variant_A,Explosion/Action,5472,1053,Churned,19.9
+247,Comedy Buff,Drama,Variant_D,Explosion/Action,6665,400,Churned,5.8
+248,Action Seeker,Comedy,Variant_A,Explosion/Action,3720,609,Active,150.7
+249,Comedy Buff,Documentary,Variant_D,Solo Lead/Moody,5517,677,Active,154.7
+250,Sci-Fi Enthusiast,Documentary,Variant_D,Explosion/Action,4244,525,Active,114.8
+251,Action Seeker,Comedy,Variant_C,Couple/Intimacy,4076,148,Churned,10.1
+252,Documentary Lover,Sci-Fi,Variant_A,Couple/Intimacy,6053,245,Churned,28.2
+253,Comedy Buff,Comedy,Variant_B,Couple/Intimacy,5493,284,Active,128.5
+254,Comedy Buff,Documentary,Variant_B,Couple/Intimacy,5700,252,Churned,15.6
+255,Sci-Fi Enthusiast,Documentary,Variant_D,Explosion/Action,7560,975,Churned,20.7
+256,Action Seeker,Drama,Variant_C,Solo Lead/Moody,4296,213,Churned,23.9
+257,Sci-Fi Enthusiast,Action,Variant_D,Solo Lead/Moody,4373,297,Churned,18.5
+258,Sci-Fi Enthusiast,Comedy,Variant_A,Solo Lead/Moody,4437,249,Churned,19.9
+259,Sci-Fi Enthusiast,Sci-Fi,Variant_C,Solo Lead/Moody,5621,417,Active,131.8
+260,Sci-Fi Enthusiast,Drama,Variant_D,Explosion/Action,4752,614,Active,165.5
+261,Sci-Fi Enthusiast,Action,Variant_B,Solo Lead/Moody,5177,189,Churned,16.9
+262,Documentary Lover,Sci-Fi,Variant_D,Cast Ensemble,5610,311,Churned,20.4
+263,Comedy Buff,Sci-Fi,Variant_B,Cast Ensemble,5833,901,Active,148.2
+264,Action Seeker,Action,Variant_B,Solo Lead/Moody,3339,181,Churned,16.0
+265,Comedy Buff,Action,Variant_D,Solo Lead/Moody,5271,196,Churned,9.6
+266,Sci-Fi Enthusiast,Comedy,Variant_A,Solo Lead/Moody,6053,300,Active,167.0
+267,Action Seeker,Comedy,Variant_C,Couple/Intimacy,5028,252,Churned,19.7
+268,Documentary Lover,Comedy,Variant_C,Explosion/Action,4483,228,Churned,12.7
+269,Sci-Fi Enthusiast,Comedy,Variant_D,Solo Lead/Moody,4565,214,Churned,16.1
+270,Sci-Fi Enthusiast,Action,Variant_C,Cast Ensemble,4521,282,Churned,10.5
+271,Documentary Lover,Documentary,Variant_C,Explosion/Action,4813,219,Churned,22.2
+272,Documentary Lover,Documentary,Variant_A,Solo Lead/Moody,5196,1352,Active,112.9
+273,Sci-Fi Enthusiast,Drama,Variant_A,Solo Lead/Moody,5267,310,Churned,15.4
+274,Documentary Lover,Drama,Variant_D,Couple/Intimacy,6065,635,Active,185.2
+275,Documentary Lover,Action,Variant_A,Explosion/Action,7298,776,Churned,12.8
+276,Documentary Lover,Action,Variant_C,Explosion/Action,6453,811,Churned,12.4
+277,Documentary Lover,Comedy,Variant_D,Couple/Intimacy,4579,216,Churned,8.3
+278,Action Seeker,Action,Variant_C,Explosion/Action,4081,897,Active,130.8
+279,Action Seeker,Documentary,Variant_B,Couple/Intimacy,4965,259,Churned,22.8
+280,Sci-Fi Enthusiast,Action,Variant_C,Cast Ensemble,4001,239,Churned,13.9
+281,Sci-Fi Enthusiast,Comedy,Variant_A,Couple/Intimacy,4950,280,Churned,9.4
+282,Documentary Lover,Action,Variant_A,Couple/Intimacy,5382,278,Churned,17.5
+283,Comedy Buff,Sci-Fi,Variant_D,Cast Ensemble,5289,923,Active,134.1
+284,Comedy Buff,Documentary,Variant_D,Cast Ensemble,4469,642,Active,136.1
+285,Sci-Fi Enthusiast,Comedy,Variant_A,Solo Lead/Moody,4362,269,Churned,22.1
+286,Documentary Lover,Sci-Fi,Variant_C,Explosion/Action,4429,184,Churned,17.4
+287,Documentary Lover,Action,Variant_D,Cast Ensemble,4447,250,Churned,16.0
+288,Sci-Fi Enthusiast,Comedy,Variant_B,Couple/Intimacy,3484,228,Churned,24.0
+289,Action Seeker,Sci-Fi,Variant_C,Couple/Intimacy,4387,202,Churned,16.4
+290,Sci-Fi Enthusiast,Documentary,Variant_D,Explosion/Action,5334,728,Active,200.3
+291,Action Seeker,Drama,Variant_A,Couple/Intimacy,4823,492,Churned,8.1
+292,Comedy Buff,Action,Variant_A,Solo Lead/Moody,4269,212,Churned,24.0
+293,Action Seeker,Documentary,Variant_A,Solo Lead/Moody,4482,592,Active,149.6
+294,Sci-Fi Enthusiast,Action,Variant_D,Cast Ensemble,6188,465,Churned,12.3
+295,Comedy Buff,Comedy,Variant_A,Solo Lead/Moody,4510,272,Churned,18.4
+296,Comedy Buff,Documentary,Variant_A,Solo Lead/Moody,6846,929,Active,141.0
+297,Comedy Buff,Drama,Variant_C,Couple/Intimacy,5590,676,Churned,19.1
+298,Action Seeker,Action,Variant_B,Couple/Intimacy,5507,334,Active,179.2
+299,Action Seeker,Sci-Fi,Variant_C,Couple/Intimacy,6382,360,Active,145.8
+300,Documentary Lover,Sci-Fi,Variant_C,Solo Lead/Moody,5146,1142,Active,129.6
+301,Action Seeker,Comedy,Variant_A,Couple/Intimacy,5368,247,Churned,15.1
+302,Sci-Fi Enthusiast,Comedy,Variant_C,Cast Ensemble,6278,702,Churned,15.2
+303,Action Seeker,Action,Variant_D,Explosion/Action,3640,864,Active,166.1
+304,Documentary Lover,Action,Variant_D,Solo Lead/Moody,7163,1195,Churned,16.1
+305,Comedy Buff,Sci-Fi,Variant_D,Cast Ensemble,5249,870,Active,147.6
+306,Documentary Lover,Drama,Variant_C,Solo Lead/Moody,5279,929,Active,154.7
+307,Comedy Buff,Comedy,Variant_C,Explosion/Action,4553,236,Churned,20.4
+308,Action Seeker,Documentary,Variant_D,Solo Lead/Moody,3973,521,Churned,11.5
+309,Comedy Buff,Drama,Variant_D,Solo Lead/Moody,6195,215,Churned,12.2
+310,Sci-Fi Enthusiast,Sci-Fi,Variant_D,Solo Lead/Moody,5377,568,Churned,14.7
+311,Documentary Lover,Sci-Fi,Variant_B,Explosion/Action,4444,305,Active,113.8
+312,Sci-Fi Enthusiast,Documentary,Variant_C,Solo Lead/Moody,2801,376,Churned,12.5
+313,Sci-Fi Enthusiast,Drama,Variant_B,Explosion/Action,3978,545,Churned,16.2
+314,Comedy Buff,Action,Variant_A,Couple/Intimacy,4435,164,Churned,19.4
+315,Action Seeker,Comedy,Variant_C,Couple/Intimacy,5650,276,Churned,24.2
+316,Sci-Fi Enthusiast,Documentary,Variant_D,Explosion/Action,3929,450,Churned,11.5
+317,Sci-Fi Enthusiast,Comedy,Variant_C,Explosion/Action,4954,656,Active,144.0
+318,Comedy Buff,Action,Variant_B,Cast Ensemble,5352,735,Active,186.1
+319,Sci-Fi Enthusiast,Action,Variant_B,Explosion/Action,4917,989,Churned,16.7
+320,Comedy Buff,Comedy,Variant_A,Solo Lead/Moody,5456,303,Churned,17.2
+321,Documentary Lover,Documentary,Variant_C,Couple/Intimacy,5642,357,Active,154.9
+322,Documentary Lover,Documentary,Variant_B,Explosion/Action,5709,280,Active,186.0
+323,Comedy Buff,Action,Variant_B,Cast Ensemble,4323,726,Active,149.0
+324,Action Seeker,Action,Variant_D,Explosion/Action,3569,825,Active,133.0
+325,Sci-Fi Enthusiast,Documentary,Variant_C,Cast Ensemble,5840,253,Churned,12.8
+326,Comedy Buff,Documentary,Variant_B,Couple/Intimacy,3110,141,Churned,2.9
+327,Sci-Fi Enthusiast,Sci-Fi,Variant_B,Solo Lead/Moody,3416,333,Churned,18.9
+328,Comedy Buff,Documentary,Variant_C,Solo Lead/Moody,5425,652,Churned,14.8
+329,Comedy Buff,Documentary,Variant_C,Couple/Intimacy,4996,191,Churned,22.5
+330,Sci-Fi Enthusiast,Drama,Variant_B,Couple/Intimacy,5877,633,Active,150.7
+331,Comedy Buff,Drama,Variant_A,Cast Ensemble,5208,674,Active,143.8
+332,Comedy Buff,Documentary,Variant_D,Cast Ensemble,4318,604,Active,143.0
+333,Comedy Buff,Comedy,Variant_D,Couple/Intimacy,6797,383,Churned,12.1
+334,Action Seeker,Comedy,Variant_D,Cast Ensemble,5572,690,Churned,19.6
+335,Documentary Lover,Action,Variant_D,Explosion/Action,5059,523,Churned,18.5
+336,Comedy Buff,Drama,Variant_B,Solo Lead/Moody,5393,317,Churned,18.2
+337,Comedy Buff,Comedy,Variant_D,Couple/Intimacy,6049,270,Churned,21.6
+338,Sci-Fi Enthusiast,Comedy,Variant_B,Explosion/Action,5197,783,Active,132.8
+339,Action Seeker,Documentary,Variant_B,Cast Ensemble,6735,350,Active,133.7
+340,Action Seeker,Drama,Variant_D,Couple/Intimacy,4516,482,Churned,17.1
+341,Documentary Lover,Comedy,Variant_C,Couple/Intimacy,5522,244,Churned,14.9
+342,Action Seeker,Drama,Variant_D,Explosion/Action,7142,1337,Churned,17.2
+343,Action Seeker,Sci-Fi,Variant_A,Explosion/Action,5038,862,Active,165.3
+344,Documentary Lover,Documentary,Variant_C,Cast Ensemble,3977,188,Active,108.3
+345,Action Seeker,Drama,Variant_D,Solo Lead/Moody,5399,304,Churned,12.6
+346,Sci-Fi Enthusiast,Action,Variant_B,Solo Lead/Moody,6573,248,Churned,7.7
+347,Action Seeker,Comedy,Variant_A,Explosion/Action,5224,942,Active,192.1
+348,Documentary Lover,Comedy,Variant_C,Cast Ensemble,4541,548,Churned,14.8
+349,Action Seeker,Drama,Variant_C,Cast Ensemble,4827,284,Active,166.3
+350,Sci-Fi Enthusiast,Action,Variant_C,Solo Lead/Moody,3423,221,Churned,21.9
+351,Comedy Buff,Documentary,Variant_B,Explosion/Action,4374,236,Churned,17.5
+352,Sci-Fi Enthusiast,Sci-Fi,Variant_B,Solo Lead/Moody,5260,444,Churned,11.6
+353,Action Seeker,Documentary,Variant_B,Solo Lead/Moody,4974,704,Churned,17.7
+354,Comedy Buff,Documentary,Variant_D,Solo Lead/Moody,4629,637,Churned,0.8
+355,Action Seeker,Drama,Variant_C,Explosion/Action,6148,938,Active,140.9
+356,Comedy Buff,Comedy,Variant_A,Explosion/Action,3880,143,Churned,20.8
+357,Sci-Fi Enthusiast,Drama,Variant_D,Solo Lead/Moody,4532,242,Churned,14.8
+358,Documentary Lover,Sci-Fi,Variant_D,Couple/Intimacy,5477,278,Churned,8.6
+359,Action Seeker,Documentary,Variant_B,Cast Ensemble,5996,270,Churned,7.2
+360,Sci-Fi Enthusiast,Documentary,Variant_A,Explosion/Action,4571,662,Active,171.3
+361,Documentary Lover,Action,Variant_B,Explosion/Action,4651,495,Churned,13.4
+362,Action Seeker,Sci-Fi,Variant_B,Couple/Intimacy,7076,380,Churned,17.2
+363,Action Seeker,Drama,Variant_D,Solo Lead/Moody,6030,315,Churned,13.7
+364,Action Seeker,Drama,Variant_C,Solo Lead/Moody,4803,236,Churned,14.8
+365,Comedy Buff,Drama,Variant_D,Couple/Intimacy,5727,632,Churned,18.7
+366,Comedy Buff,Drama,Variant_C,Couple/Intimacy,4919,544,Churned,5.0
+367,Comedy Buff,Comedy,Variant_B,Explosion/Action,5916,316,Churned,20.0
+368,Comedy Buff,Drama,Variant_C,Solo Lead/Moody,2103,149,Active,146.5
+369,Action Seeker,Action,Variant_C,Couple/Intimacy,6108,241,Churned,18.1
+370,Comedy Buff,Sci-Fi,Variant_C,Explosion/Action,3946,172,Churned,24.6
+371,Action Seeker,Documentary,Variant_B,Solo Lead/Moody,4809,635,Churned,19.4
+372,Comedy Buff,Documentary,Variant_A,Couple/Intimacy,5495,283,Churned,16.8
+373,Documentary Lover,Documentary,Variant_A,Cast Ensemble,7403,365,Churned,16.0
+374,Action Seeker,Sci-Fi,Variant_B,Cast Ensemble,6050,369,Churned,20.9
+375,Documentary Lover,Action,Variant_D,Explosion/Action,5638,555,Churned,23.2
+376,Comedy Buff,Comedy,Variant_C,Cast Ensemble,3853,820,Churned,11.2
+377,Sci-Fi Enthusiast,Drama,Variant_B,Cast Ensemble,4935,262,Churned,16.6
+378,Documentary Lover,Action,Variant_B,Cast Ensemble,5421,358,Churned,17.3
+379,Action Seeker,Action,Variant_B,Solo Lead/Moody,4755,283,Churned,20.9
+380,Sci-Fi Enthusiast,Comedy,Variant_A,Solo Lead/Moody,3772,211,Churned,18.5
+381,Action Seeker,Documentary,Variant_D,Solo Lead/Moody,4702,675,Churned,14.2
+382,Sci-Fi Enthusiast,Comedy,Variant_B,Explosion/Action,5125,657,Churned,15.1
+383,Documentary Lover,Sci-Fi,Variant_C,Solo Lead/Moody,3903,763,Active,189.9
+384,Documentary Lover,Documentary,Variant_D,Explosion/Action,4153,166,Churned,4.2
+385,Sci-Fi Enthusiast,Action,Variant_A,Couple/Intimacy,4361,160,Churned,23.2
+386,Action Seeker,Comedy,Variant_B,Cast Ensemble,6009,619,Churned,26.3
+387,Documentary Lover,Action,Variant_C,Solo Lead/Moody,5981,997,Active,87.5
+388,Sci-Fi Enthusiast,Comedy,Variant_C,Couple/Intimacy,7290,263,Active,108.9
+389,Sci-Fi Enthusiast,Action,Variant_C,Couple/Intimacy,6022,448,Churned,21.9
+390,Comedy Buff,Sci-Fi,Variant_C,Solo Lead/Moody,5563,533,Churned,19.3
+391,Documentary Lover,Documentary,Variant_D,Couple/Intimacy,5758,304,Churned,15.5
+392,Comedy Buff,Action,Variant_D,Couple/Intimacy,4937,209,Churned,13.6
+393,Sci-Fi Enthusiast,Drama,Variant_D,Solo Lead/Moody,3307,162,Active,125.3
+394,Sci-Fi Enthusiast,Sci-Fi,Variant_B,Couple/Intimacy,3896,201,Active,184.8
+395,Action Seeker,Sci-Fi,Variant_B,Explosion/Action,5918,913,Active,125.3
+396,Action Seeker,Sci-Fi,Variant_D,Couple/Intimacy,5940,238,Churned,13.9
+397,Action Seeker,Drama,Variant_A,Explosion/Action,5550,889,Active,152.6
+398,Comedy Buff,Sci-Fi,Variant_D,Solo Lead/Moody,3665,307,Churned,16.6
+399,Documentary Lover,Drama,Variant_A,Cast Ensemble,3407,185,Churned,14.9
+400,Sci-Fi Enthusiast,Drama,Variant_A,Cast Ensemble,5552,290,Churned,21.8
+401,Action Seeker,Sci-Fi,Variant_C,Explosion/Action,5125,849,Active,153.1
+402,Documentary Lover,Action,Variant_C,Explosion/Action,5543,612,Churned,15.2
+403,Action Seeker,Action,Variant_A,Couple/Intimacy,4298,186,Churned,8.0
+404,Comedy Buff,Sci-Fi,Variant_B,Explosion/Action,6749,253,Churned,11.5
+405,Documentary Lover,Sci-Fi,Variant_A,Solo Lead/Moody,4281,937,Active,142.6
+406,Action Seeker,Drama,Variant_D,Couple/Intimacy,6247,645,Churned,16.4
+407,Comedy Buff,Documentary,Variant_C,Couple/Intimacy,4164,297,Churned,9.1
+408,Sci-Fi Enthusiast,Sci-Fi,Variant_D,Cast Ensemble,5309,299,Active,160.3
+409,Sci-Fi Enthusiast,Sci-Fi,Variant_A,Explosion/Action,4814,619,Active,151.1
+410,Sci-Fi Enthusiast,Documentary,Variant_A,Explosion/Action,4852,677,Active,205.3
+411,Documentary Lover,Sci-Fi,Variant_B,Solo Lead/Moody,4442,871,Active,147.8
+412,Comedy Buff,Drama,Variant_C,Couple/Intimacy,7579,772,Churned,23.2
+413,Documentary Lover,Drama,Variant_B,Explosion/Action,6677,296,Churned,17.8
+414,Sci-Fi Enthusiast,Drama,Variant_B,Explosion/Action,6628,836,Active,144.9
+415,Sci-Fi Enthusiast,Comedy,Variant_D,Solo Lead/Moody,4418,176,Churned,11.8
+416,Action Seeker,Documentary,Variant_C,Explosion/Action,3776,643,Active,130.8
+417,Action Seeker,Documentary,Variant_B,Solo Lead/Moody,5233,598,Churned,16.7
+418,Documentary Lover,Action,Variant_A,Explosion/Action,5833,525,Churned,16.9
+419,Documentary Lover,Action,Variant_B,Solo Lead/Moody,6227,983,Active,191.8
+420,Sci-Fi Enthusiast,Action,Variant_C,Cast Ensemble,5419,232,Churned,14.7
+421,Documentary Lover,Sci-Fi,Variant_C,Explosion/Action,5558,282,Churned,17.7
+422,Sci-Fi Enthusiast,Sci-Fi,Variant_B,Couple/Intimacy,4079,210,Churned,7.9
+423,Comedy Buff,Comedy,Variant_A,Couple/Intimacy,4888,200,Churned,11.3
+424,Sci-Fi Enthusiast,Action,Variant_B,Couple/Intimacy,6236,379,Churned,18.0
+425,Documentary Lover,Drama,Variant_C,Solo Lead/Moody,3907,651,Active,180.3
+426,Comedy Buff,Comedy,Variant_C,Solo Lead/Moody,5141,376,Churned,17.0
+427,Action Seeker,Action,Variant_A,Explosion/Action,5192,1178,Active,153.3
+428,Comedy Buff,Documentary,Variant_C,Solo Lead/Moody,4847,664,Churned,19.8
+429,Documentary Lover,Documentary,Variant_A,Solo Lead/Moody,4214,997,Active,104.1
+430,Action Seeker,Comedy,Variant_B,Couple/Intimacy,5507,214,Churned,4.2
+431,Action Seeker,Drama,Variant_B,Explosion/Action,5388,1050,Active,149.8
+432,Comedy Buff,Comedy,Variant_D,Explosion/Action,5838,296,Churned,14.5
+433,Comedy Buff,Documentary,Variant_B,Explosion/Action,5919,278,Churned,16.3
+434,Sci-Fi Enthusiast,Drama,Variant_A,Cast Ensemble,5321,230,Churned,20.0
+435,Sci-Fi Enthusiast,Sci-Fi,Variant_D,Couple/Intimacy,4825,204,Churned,17.7
+436,Documentary Lover,Sci-Fi,Variant_B,Cast Ensemble,4101,206,Active,149.8
+437,Action Seeker,Comedy,Variant_A,Explosion/Action,6085,1063,Active,149.4
+438,Sci-Fi Enthusiast,Sci-Fi,Variant_D,Cast Ensemble,5817,371,Active,163.9
+439,Comedy Buff,Drama,Variant_C,Cast Ensemble,5010,685,Active,123.4
+440,Action Seeker,Documentary,Variant_A,Cast Ensemble,4694,206,Churned,14.1
+441,Documentary Lover,Documentary,Variant_C,Solo Lead/Moody,5056,1290,Active,148.2
+442,Action Seeker,Sci-Fi,Variant_C,Explosion/Action,5486,936,Active,100.6
+443,Documentary Lover,Documentary,Variant_C,Cast Ensemble,4060,197,Churned,9.0
+444,Sci-Fi Enthusiast,Sci-Fi,Variant_D,Explosion/Action,5599,813,Active,180.5
+445,Action Seeker,Sci-Fi,Variant_A,Couple/Intimacy,4786,310,Active,153.7
+446,Action Seeker,Comedy,Variant_A,Cast Ensemble,4662,484,Active,142.4
+447,Action Seeker,Comedy,Variant_A,Cast Ensemble,4611,515,Churned,15.8
+448,Comedy Buff,Drama,Variant_A,Couple/Intimacy,5003,572,Churned,21.0
+449,Comedy Buff,Sci-Fi,Variant_B,Couple/Intimacy,5949,209,Churned,2.2
+450,Action Seeker,Sci-Fi,Variant_C,Couple/Intimacy,5934,215,Churned,13.9
+451,Action Seeker,Drama,Variant_C,Explosion/Action,3829,581,Active,163.5
+452,Documentary Lover,Sci-Fi,Variant_C,Cast Ensemble,5759,254,Active,85.2
+453,Documentary Lover,Sci-Fi,Variant_C,Explosion/Action,4453,240,Churned,7.6
+454,Comedy Buff,Sci-Fi,Variant_C,Explosion/Action,5183,258,Churned,17.9
+455,Comedy Buff,Drama,Variant_D,Explosion/Action,5119,206,Churned,21.0
+456,Action Seeker,Sci-Fi,Variant_C,Couple/Intimacy,4841,240,Churned,10.3
+457,Sci-Fi Enthusiast,Comedy,Variant_B,Explosion/Action,4556,551,Churned,14.1
+458,Documentary Lover,Action,Variant_C,Solo Lead/Moody,6711,1048,Active,109.7
+459,Sci-Fi Enthusiast,Comedy,Variant_D,Solo Lead/Moody,6471,310,Churned,11.7
+460,Sci-Fi Enthusiast,Documentary,Variant_A,Couple/Intimacy,6039,265,Churned,24.1
+461,Action Seeker,Sci-Fi,Variant_A,Cast Ensemble,5677,256,Churned,25.8
+462,Sci-Fi Enthusiast,Drama,Variant_C,Explosion/Action,4394,603,Active,157.5
+463,Action Seeker,Action,Variant_A,Couple/Intimacy,6301,413,Churned,15.2
+464,Documentary Lover,Action,Variant_B,Couple/Intimacy,4246,231,Churned,11.6
+465,Comedy Buff,Action,Variant_B,Cast Ensemble,7013,1061,Active,140.9
+466,Comedy Buff,Action,Variant_C,Explosion/Action,5184,500,Churned,10.1
+467,Comedy Buff,Comedy,Variant_B,Explosion/Action,6200,269,Churned,9.8
+468,Documentary Lover,Action,Variant_A,Couple/Intimacy,5536,342,Churned,18.6
+469,Action Seeker,Comedy,Variant_D,Solo Lead/Moody,5996,254,Churned,7.9
+470,Action Seeker,Drama,Variant_B,Solo Lead/Moody,6501,304,Churned,13.7
+471,Documentary Lover,Action,Variant_C,Couple/Intimacy,6328,351,Churned,17.3
+472,Comedy Buff,Comedy,Variant_D,Couple/Intimacy,7165,312,Churned,19.6
+473,Comedy Buff,Action,Variant_C,Cast Ensemble,5057,772,Churned,22.6
+474,Documentary Lover,Drama,Variant_B,Cast Ensemble,5507,304,Churned,20.4
+475,Action Seeker,Documentary,Variant_D,Solo Lead/Moody,4635,563,Churned,9.8
+476,Sci-Fi Enthusiast,Action,Variant_D,Couple/Intimacy,3033,214,Churned,9.5
+477,Documentary Lover,Comedy,Variant_B,Explosion/Action,4778,225,Churned,16.5
+478,Sci-Fi Enthusiast,Action,Variant_D,Explosion/Action,5815,1154,Active,135.4
+479,Action Seeker,Drama,Variant_A,Solo Lead/Moody,4832,255,Churned,13.8
+480,Sci-Fi Enthusiast,Sci-Fi,Variant_B,Solo Lead/Moody,6607,627,Churned,18.7
+481,Sci-Fi Enthusiast,Drama,Variant_D,Solo Lead/Moody,5662,349,Churned,15.9
+482,Action Seeker,Sci-Fi,Variant_A,Cast Ensemble,3703,199,Churned,11.7
+483,Documentary Lover,Action,Variant_C,Explosion/Action,4471,518,Churned,21.2
+484,Documentary Lover,Comedy,Variant_A,Explosion/Action,5021,266,Churned,23.5
+485,Action Seeker,Sci-Fi,Variant_A,Couple/Intimacy,5240,398,Churned,17.8
+486,Comedy Buff,Action,Variant_B,Explosion/Action,3239,380,Churned,16.9
+487,Sci-Fi Enthusiast,Action,Variant_D,Solo Lead/Moody,6289,356,Active,146.5
+488,Sci-Fi Enthusiast,Sci-Fi,Variant_A,Solo Lead/Moody,3775,331,Churned,10.7
+489,Documentary Lover,Documentary,Variant_B,Couple/Intimacy,4419,246,Churned,23.3
+490,Action Seeker,Action,Variant_B,Explosion/Action,5394,1176,Active,161.1
+491,Documentary Lover,Action,Variant_D,Cast Ensemble,6196,272,Churned,14.3
+492,Documentary Lover,Action,Variant_D,Explosion/Action,5014,512,Active,166.2
+493,Documentary Lover,Documentary,Variant_C,Cast Ensemble,4879,264,Churned,10.6
+494,Documentary Lover,Comedy,Variant_C,Couple/Intimacy,4562,261,Churned,13.1
+495,Comedy Buff,Action,Variant_C,Explosion/Action,6726,712,Churned,16.1
+496,Sci-Fi Enthusiast,Comedy,Variant_C,Explosion/Action,5932,687,Churned,6.2
+497,Comedy Buff,Drama,Variant_A,Couple/Intimacy,3474,426,Churned,12.2
+498,Documentary Lover,Comedy,Variant_A,Couple/Intimacy,7558,335,Churned,15.9
+499,Documentary Lover,Drama,Variant_D,Explosion/Action,6542,458,Churned,25.3
+500,Action Seeker,Action,Variant_B,Explosion/Action,6208,1491,Active,164.8
+501,Documentary Lover,Drama,Variant_B,Explosion/Action,5778,257,Churned,10.9
+502,Documentary Lover,Comedy,Variant_D,Cast Ensemble,4996,541,Churned,12.7
+503,Sci-Fi Enthusiast,Action,Variant_B,Couple/Intimacy,5696,339,Churned,15.4
+504,Action Seeker,Action,Variant_D,Explosion/Action,6477,1415,Active,145.2
+505,Action Seeker,Action,Variant_B,Cast Ensemble,4283,134,Churned,14.6
+506,Documentary Lover,Comedy,Variant_A,Solo Lead/Moody,4878,903,Active,165.8
+507,Comedy Buff,Documentary,Variant_D,Explosion/Action,3975,272,Churned,21.1
+508,Sci-Fi Enthusiast,Drama,Variant_A,Solo Lead/Moody,5582,266,Churned,10.2
+509,Comedy Buff,Drama,Variant_A,Explosion/Action,4627,281,Churned,24.4
+510,Action Seeker,Sci-Fi,Variant_B,Solo Lead/Moody,6543,556,Churned,9.4
+511,Sci-Fi Enthusiast,Action,Variant_C,Solo Lead/Moody,5140,166,Churned,16.6
+512,Sci-Fi Enthusiast,Action,Variant_A,Couple/Intimacy,4852,219,Churned,7.0
+513,Comedy Buff,Drama,Variant_D,Couple/Intimacy,5513,577,Churned,9.2
+514,Documentary Lover,Documentary,Variant_A,Solo Lead/Moody,2127,531,Active,194.3
+515,Documentary Lover,Comedy,Variant_C,Solo Lead/Moody,6661,1101,Active,134.9
+516,Sci-Fi Enthusiast,Documentary,Variant_D,Cast Ensemble,5468,218,Churned,16.5
+517,Documentary Lover,Documentary,Variant_B,Couple/Intimacy,5766,359,Churned,14.5
+518,Documentary Lover,Action,Variant_D,Couple/Intimacy,4796,197,Churned,10.9
+519,Comedy Buff,Action,Variant_D,Explosion/Action,4773,542,Active,172.8
+520,Sci-Fi Enthusiast,Action,Variant_C,Solo Lead/Moody,4196,272,Churned,13.6
+521,Action Seeker,Comedy,Variant_A,Cast Ensemble,4978,510,Churned,2.9
+522,Action Seeker,Comedy,Variant_A,Explosion/Action,5884,1043,Active,143.0
+523,Action Seeker,Documentary,Variant_D,Solo Lead/Moody,5066,684,Churned,7.2
+524,Comedy Buff,Comedy,Variant_B,Explosion/Action,4470,259,Churned,8.7
+525,Sci-Fi Enthusiast,Sci-Fi,Variant_A,Explosion/Action,5293,616,Active,161.7
+526,Documentary Lover,Action,Variant_D,Cast Ensemble,4964,168,Churned,20.8
+527,Action Seeker,Documentary,Variant_B,Solo Lead/Moody,4265,519,Churned,16.0
+528,Comedy Buff,Sci-Fi,Variant_C,Solo Lead/Moody,6148,490,Active,151.5
+529,Documentary Lover,Sci-Fi,Variant_D,Solo Lead/Moody,5428,1177,Active,154.4
+530,Documentary Lover,Action,Variant_A,Cast Ensemble,4632,193,Active,152.2
+531,Action Seeker,Sci-Fi,Variant_B,Couple/Intimacy,3927,81,Churned,17.2
+532,Action Seeker,Sci-Fi,Variant_A,Solo Lead/Moody,5903,391,Churned,10.0
+533,Action Seeker,Documentary,Variant_D,Cast Ensemble,5619,396,Active,150.5
+534,Sci-Fi Enthusiast,Sci-Fi,Variant_A,Solo Lead/Moody,4271,376,Churned,21.9
+535,Comedy Buff,Documentary,Variant_D,Couple/Intimacy,4354,182,Churned,12.6
+536,Documentary Lover,Sci-Fi,Variant_A,Couple/Intimacy,4046,207,Churned,23.1
+537,Documentary Lover,Documentary,Variant_D,Explosion/Action,5323,252,Churned,13.5
+538,Sci-Fi Enthusiast,Sci-Fi,Variant_B,Cast Ensemble,3436,202,Churned,14.6
+539,Action Seeker,Comedy,Variant_D,Solo Lead/Moody,4819,394,Churned,16.5
+540,Documentary Lover,Comedy,Variant_A,Couple/Intimacy,4248,194,Churned,20.7
+541,Comedy Buff,Sci-Fi,Variant_C,Couple/Intimacy,5113,182,Churned,19.6
+542,Documentary Lover,Action,Variant_C,Cast Ensemble,4331,297,Churned,20.4
+543,Documentary Lover,Action,Variant_D,Cast Ensemble,4552,285,Active,151.7
+544,Sci-Fi Enthusiast,Drama,Variant_A,Solo Lead/Moody,5852,320,Churned,10.8
+545,Documentary Lover,Action,Variant_D,Solo Lead/Moody,4356,785,Active,141.6
+546,Documentary Lover,Action,Variant_A,Cast Ensemble,4596,185,Churned,17.1
+547,Sci-Fi Enthusiast,Comedy,Variant_B,Cast Ensemble,7062,701,Churned,15.1
+548,Action Seeker,Drama,Variant_C,Explosion/Action,6412,1084,Active,161.3
+549,Action Seeker,Sci-Fi,Variant_B,Solo Lead/Moody,3937,371,Active,145.3
+550,Sci-Fi Enthusiast,Drama,Variant_B,Couple/Intimacy,5985,729,Churned,27.9
+551,Action Seeker,Drama,Variant_A,Solo Lead/Moody,5579,297,Churned,16.0
+552,Documentary Lover,Sci-Fi,Variant_B,Cast Ensemble,4646,248,Churned,13.5
+553,Sci-Fi Enthusiast,Action,Variant_A,Solo Lead/Moody,5168,326,Churned,10.0
+554,Documentary Lover,Sci-Fi,Variant_A,Couple/Intimacy,6139,387,Churned,14.4
+555,Documentary Lover,Action,Variant_C,Solo Lead/Moody,2878,471,Active,182.4
+556,Documentary Lover,Comedy,Variant_A,Cast Ensemble,4977,497,Churned,12.5
+557,Action Seeker,Comedy,Variant_A,Solo Lead/Moody,5840,323,Churned,13.8
+558,Sci-Fi Enthusiast,Action,Variant_D,Solo Lead/Moody,4633,213,Active,126.9
+559,Documentary Lover,Comedy,Variant_B,Solo Lead/Moody,6615,1103,Active,180.4
+560,Sci-Fi Enthusiast,Documentary,Variant_A,Cast Ensemble,6521,391,Churned,12.8
+561,Sci-Fi Enthusiast,Documentary,Variant_A,Explosion/Action,5403,701,Active,127.4
+562,Documentary Lover,Documentary,Variant_A,Explosion/Action,5324,203,Churned,20.9
+563,Documentary Lover,Action,Variant_C,Solo Lead/Moody,4535,780,Active,157.1
+564,Comedy Buff,Sci-Fi,Variant_A,Couple/Intimacy,4741,264,Churned,12.6
+565,Sci-Fi Enthusiast,Action,Variant_A,Explosion/Action,5871,1036,Churned,15.6
+566,Comedy Buff,Comedy,Variant_A,Explosion/Action,6938,277,Active,133.1
+567,Documentary Lover,Comedy,Variant_C,Couple/Intimacy,5513,285,Churned,16.8
+568,Action Seeker,Documentary,Variant_B,Couple/Intimacy,5489,309,Active,177.7
+569,Action Seeker,Sci-Fi,Variant_B,Solo Lead/Moody,5409,473,Churned,18.4
+570,Sci-Fi Enthusiast,Comedy,Variant_A,Explosion/Action,6899,887,Churned,10.1
+571,Comedy Buff,Sci-Fi,Variant_B,Couple/Intimacy,6107,297,Churned,4.1
+572,Sci-Fi Enthusiast,Documentary,Variant_C,Cast Ensemble,5847,261,Active,147.7
+573,Documentary Lover,Drama,Variant_D,Solo Lead/Moody,5331,916,Active,167.7
+574,Sci-Fi Enthusiast,Drama,Variant_A,Couple/Intimacy,4564,525,Churned,13.7
+575,Action Seeker,Sci-Fi,Variant_A,Explosion/Action,5738,1010,Active,126.6
+576,Documentary Lover,Documentary,Variant_C,Solo Lead/Moody,6085,1488,Churned,19.0
+577,Action Seeker,Comedy,Variant_C,Explosion/Action,5367,1011,Active,144.4
+578,Sci-Fi Enthusiast,Documentary,Variant_B,Cast Ensemble,4650,231,Active,142.4
+579,Documentary Lover,Action,Variant_D,Solo Lead/Moody,5799,892,Active,123.7
+580,Comedy Buff,Documentary,Variant_D,Solo Lead/Moody,3932,548,Churned,23.6
+581,Sci-Fi Enthusiast,Sci-Fi,Variant_B,Solo Lead/Moody,4895,432,Churned,15.4
+582,Sci-Fi Enthusiast,Documentary,Variant_C,Couple/Intimacy,6161,250,Active,156.0
+583,Documentary Lover,Comedy,Variant_D,Cast Ensemble,5975,687,Churned,15.9
+584,Comedy Buff,Documentary,Variant_A,Explosion/Action,6001,137,Churned,18.4
+585,Documentary Lover,Sci-Fi,Variant_D,Cast Ensemble,4345,137,Churned,17.6
+586,Documentary Lover,Sci-Fi,Variant_A,Cast Ensemble,6373,309,Churned,19.8
+587,Documentary Lover,Documentary,Variant_B,Explosion/Action,6612,417,Churned,23.2
+588,Sci-Fi Enthusiast,Drama,Variant_C,Cast Ensemble,5742,291,Active,110.0
+589,Sci-Fi Enthusiast,Documentary,Variant_D,Couple/Intimacy,4753,197,Active,204.3
+590,Comedy Buff,Sci-Fi,Variant_A,Explosion/Action,4824,247,Active,163.8
+591,Action Seeker,Action,Variant_D,Cast Ensemble,5043,337,Churned,11.9
+592,Action Seeker,Documentary,Variant_C,Couple/Intimacy,5194,221,Churned,8.4
+593,Comedy Buff,Comedy,Variant_D,Couple/Intimacy,4388,217,Active,139.3
+594,Documentary Lover,Comedy,Variant_D,Explosion/Action,4307,154,Churned,14.6
+595,Action Seeker,Sci-Fi,Variant_A,Solo Lead/Moody,3495,341,Churned,15.4
+596,Action Seeker,Documentary,Variant_B,Cast Ensemble,3542,166,Churned,11.2
+597,Comedy Buff,Action,Variant_D,Solo Lead/Moody,5319,337,Churned,5.6
+598,Comedy Buff,Action,Variant_C,Couple/Intimacy,5115,247,Active,166.8
+599,Documentary Lover,Sci-Fi,Variant_C,Cast Ensemble,5213,221,Churned,13.4
+600,Action Seeker,Drama,Variant_C,Couple/Intimacy,4203,507,Churned,15.1
+601,Sci-Fi Enthusiast,Documentary,Variant_B,Solo Lead/Moody,6901,892,Churned,11.5
+602,Sci-Fi Enthusiast,Documentary,Variant_D,Solo Lead/Moody,3486,390,Churned,7.1
+603,Documentary Lover,Documentary,Variant_B,Solo Lead/Moody,5267,1343,Active,110.5
+604,Comedy Buff,Drama,Variant_A,Solo Lead/Moody,5895,266,Churned,15.7
+605,Documentary Lover,Drama,Variant_B,Explosion/Action,6612,389,Churned,13.7
+606,Documentary Lover,Action,Variant_A,Cast Ensemble,4108,117,Active,132.0
+607,Documentary Lover,Sci-Fi,Variant_D,Cast Ensemble,4788,192,Churned,14.3
+608,Documentary Lover,Documentary,Variant_C,Couple/Intimacy,5076,242,Churned,11.7
+609,Comedy Buff,Sci-Fi,Variant_A,Couple/Intimacy,5168,281,Churned,9.5
+610,Documentary Lover,Sci-Fi,Variant_C,Cast Ensemble,6410,314,Churned,15.1
+611,Action Seeker,Drama,Variant_A,Solo Lead/Moody,5708,298,Churned,19.8
+612,Documentary Lover,Documentary,Variant_D,Explosion/Action,5287,231,Churned,16.8
+613,Documentary Lover,Drama,Variant_C,Couple/Intimacy,3856,428,Churned,14.8
+614,Documentary Lover,Action,Variant_C,Solo Lead/Moody,4791,808,Active,103.0
+615,Sci-Fi Enthusiast,Drama,Variant_D,Cast Ensemble,4451,226,Active,154.0
+616,Comedy Buff,Drama,Variant_B,Cast Ensemble,3972,646,Churned,10.7
+617,Documentary Lover,Comedy,Variant_A,Couple/Intimacy,5969,323,Churned,11.8
+618,Comedy Buff,Documentary,Variant_A,Solo Lead/Moody,6775,799,Churned,19.6
+619,Comedy Buff,Documentary,Variant_B,Cast Ensemble,6000,859,Active,184.8
+620,Sci-Fi Enthusiast,Sci-Fi,Variant_A,Explosion/Action,4749,631,Active,156.5
+621,Action Seeker,Documentary,Variant_D,Explosion/Action,4865,866,Churned,19.0
+622,Comedy Buff,Drama,Variant_D,Cast Ensemble,3251,530,Active,108.4
+623,Documentary Lover,Documentary,Variant_D,Cast Ensemble,6032,369,Churned,9.5
+624,Sci-Fi Enthusiast,Comedy,Variant_A,Solo Lead/Moody,4589,178,Churned,13.9
+625,Sci-Fi Enthusiast,Sci-Fi,Variant_C,Couple/Intimacy,4691,271,Churned,21.6
+626,Documentary Lover,Sci-Fi,Variant_A,Solo Lead/Moody,6395,1306,Active,144.8
+627,Action Seeker,Sci-Fi,Variant_D,Couple/Intimacy,3316,139,Churned,19.8
+628,Action Seeker,Documentary,Variant_A,Cast Ensemble,6615,249,Churned,12.0
+629,Documentary Lover,Action,Variant_C,Solo Lead/Moody,4973,859,Active,129.8
+630,Sci-Fi Enthusiast,Sci-Fi,Variant_D,Explosion/Action,5424,679,Active,149.6
+631,Comedy Buff,Sci-Fi,Variant_D,Cast Ensemble,5546,832,Active,139.1
+632,Action Seeker,Documentary,Variant_A,Cast Ensemble,4890,240,Active,140.7
+633,Comedy Buff,Sci-Fi,Variant_D,Cast Ensemble,4741,786,Active,164.0
+634,Action Seeker,Action,Variant_D,Solo Lead/Moody,4704,267,Active,141.7
+635,Action Seeker,Documentary,Variant_C,Explosion/Action,6173,1072,Active,147.3
+636,Action Seeker,Sci-Fi,Variant_C,Explosion/Action,5447,840,Active,121.8
+637,Documentary Lover,Comedy,Variant_A,Couple/Intimacy,3806,195,Churned,23.7
+638,Sci-Fi Enthusiast,Sci-Fi,Variant_C,Explosion/Action,7231,986,Churned,17.5
+639,Documentary Lover,Drama,Variant_A,Explosion/Action,3198,142,Churned,11.1
+640,Action Seeker,Drama,Variant_D,Couple/Intimacy,4379,474,Churned,12.6
+641,Sci-Fi Enthusiast,Action,Variant_A,Couple/Intimacy,3020,173,Active,123.2
+642,Action Seeker,Documentary,Variant_B,Couple/Intimacy,5239,370,Churned,10.4
+643,Documentary Lover,Sci-Fi,Variant_D,Cast Ensemble,2469,116,Churned,20.5
+644,Action Seeker,Documentary,Variant_B,Solo Lead/Moody,6958,818,Churned,17.5
+645,Sci-Fi Enthusiast,Sci-Fi,Variant_D,Explosion/Action,4534,584,Active,216.1
+646,Comedy Buff,Drama,Variant_D,Cast Ensemble,3497,533,Active,161.7
+647,Action Seeker,Sci-Fi,Variant_D,Couple/Intimacy,6085,310,Active,157.7
+648,Sci-Fi Enthusiast,Sci-Fi,Variant_A,Solo Lead/Moody,4608,427,Churned,13.3
+649,Comedy Buff,Action,Variant_C,Explosion/Action,5621,597,Churned,16.9
+650,Action Seeker,Sci-Fi,Variant_B,Solo Lead/Moody,4970,503,Churned,14.7
+651,Action Seeker,Sci-Fi,Variant_D,Solo Lead/Moody,3226,331,Churned,10.5
+652,Sci-Fi Enthusiast,Action,Variant_C,Solo Lead/Moody,4346,191,Active,184.4
+653,Comedy Buff,Comedy,Variant_C,Explosion/Action,2864,233,Churned,20.3
+654,Sci-Fi Enthusiast,Documentary,Variant_B,Solo Lead/Moody,5223,676,Churned,16.4
+655,Action Seeker,Comedy,Variant_C,Explosion/Action,5521,974,Active,163.9
+656,Sci-Fi Enthusiast,Documentary,Variant_D,Couple/Intimacy,5089,244,Churned,14.2
+657,Action Seeker,Action,Variant_C,Cast Ensemble,4805,294,Churned,18.0
+658,Documentary Lover,Sci-Fi,Variant_C,Explosion/Action,2059,116,Churned,16.0
+659,Sci-Fi Enthusiast,Documentary,Variant_B,Couple/Intimacy,4981,229,Churned,20.6
+660,Documentary Lover,Sci-Fi,Variant_D,Cast Ensemble,5947,251,Churned,17.0
+661,Documentary Lover,Comedy,Variant_C,Explosion/Action,4028,145,Churned,11.9
+662,Sci-Fi Enthusiast,Sci-Fi,Variant_B,Solo Lead/Moody,5862,583,Churned,17.6
+663,Action Seeker,Documentary,Variant_D,Solo Lead/Moody,5725,773,Churned,11.8
+664,Comedy Buff,Sci-Fi,Variant_C,Cast Ensemble,5431,858,Active,168.9
+665,Documentary Lover,Drama,Variant_B,Couple/Intimacy,6188,724,Churned,16.8
+666,Documentary Lover,Comedy,Variant_D,Cast Ensemble,6070,666,Churned,10.6
+667,Sci-Fi Enthusiast,Action,Variant_B,Couple/Intimacy,4836,205,Churned,11.6
+668,Sci-Fi Enthusiast,Documentary,Variant_C,Solo Lead/Moody,4855,592,Churned,13.5
+669,Comedy Buff,Action,Variant_D,Solo Lead/Moody,3106,161,Churned,15.0
+670,Documentary Lover,Action,Variant_C,Explosion/Action,4182,487,Churned,19.7
+671,Sci-Fi Enthusiast,Drama,Variant_C,Solo Lead/Moody,3392,143,Churned,11.2
+672,Sci-Fi Enthusiast,Action,Variant_A,Solo Lead/Moody,4060,236,Churned,14.0
+673,Comedy Buff,Comedy,Variant_C,Solo Lead/Moody,4735,141,Churned,18.2
+674,Documentary Lover,Sci-Fi,Variant_D,Solo Lead/Moody,3760,791,Active,156.9
+675,Sci-Fi Enthusiast,Action,Variant_C,Solo Lead/Moody,6360,234,Churned,-0.1
+676,Action Seeker,Action,Variant_A,Couple/Intimacy,5183,352,Churned,21.2
+677,Documentary Lover,Drama,Variant_D,Solo Lead/Moody,5209,859,Active,170.2
+678,Documentary Lover,Drama,Variant_B,Solo Lead/Moody,4026,703,Active,162.6
+679,Documentary Lover,Comedy,Variant_B,Solo Lead/Moody,6060,1197,Active,159.8
+680,Documentary Lover,Comedy,Variant_B,Solo Lead/Moody,4491,762,Active,105.8
+681,Comedy Buff,Comedy,Variant_C,Solo Lead/Moody,4305,197,Churned,12.4
+682,Sci-Fi Enthusiast,Action,Variant_A,Cast Ensemble,5152,215,Churned,20.6
+683,Documentary Lover,Drama,Variant_A,Explosion/Action,5000,249,Churned,13.4
+684,Action Seeker,Sci-Fi,Variant_B,Couple/Intimacy,5155,300,Churned,10.7
+685,Comedy Buff,Action,Variant_D,Couple/Intimacy,4341,203,Churned,8.3
+686,Documentary Lover,Sci-Fi,Variant_D,Solo Lead/Moody,4180,857,Active,171.9
+687,Documentary Lover,Comedy,Variant_A,Cast Ensemble,5262,589,Churned,19.3
+688,Documentary Lover,Documentary,Variant_B,Explosion/Action,4862,262,Churned,14.5
+689,Sci-Fi Enthusiast,Documentary,Variant_D,Explosion/Action,5265,653,Active,89.0
+690,Action Seeker,Action,Variant_A,Cast Ensemble,4865,312,Churned,19.6
+691,Comedy Buff,Sci-Fi,Variant_C,Couple/Intimacy,5965,371,Active,152.2
+692,Sci-Fi Enthusiast,Documentary,Variant_B,Solo Lead/Moody,5197,643,Churned,13.4
+693,Sci-Fi Enthusiast,Action,Variant_C,Couple/Intimacy,5615,348,Active,146.5
+694,Sci-Fi Enthusiast,Comedy,Variant_C,Explosion/Action,4549,591,Churned,18.0
+695,Comedy Buff,Action,Variant_B,Solo Lead/Moody,3556,96,Churned,12.2
+696,Action Seeker,Comedy,Variant_B,Couple/Intimacy,3779,169,Churned,14.3
+697,Action Seeker,Sci-Fi,Variant_B,Couple/Intimacy,4546,293,Churned,16.6
+698,Documentary Lover,Documentary,Variant_A,Couple/Intimacy,5300,297,Active,121.5
+699,Sci-Fi Enthusiast,Action,Variant_C,Cast Ensemble,6039,297,Churned,18.4
+700,Sci-Fi Enthusiast,Sci-Fi,Variant_A,Cast Ensemble,3928,135,Churned,19.1
+701,Action Seeker,Action,Variant_D,Cast Ensemble,5376,220,Churned,10.7
+702,Action Seeker,Documentary,Variant_B,Cast Ensemble,6125,233,Churned,23.2
+703,Sci-Fi Enthusiast,Drama,Variant_C,Couple/Intimacy,4099,477,Churned,13.4
+704,Sci-Fi Enthusiast,Drama,Variant_A,Solo Lead/Moody,5603,249,Active,145.9
+705,Sci-Fi Enthusiast,Action,Variant_B,Couple/Intimacy,5040,201,Churned,18.7
+706,Documentary Lover,Comedy,Variant_D,Solo Lead/Moody,4486,752,Active,125.1
+707,Action Seeker,Documentary,Variant_D,Solo Lead/Moody,2437,312,Churned,27.1
+708,Sci-Fi Enthusiast,Sci-Fi,Variant_A,Explosion/Action,5784,750,Active,143.4
+709,Sci-Fi Enthusiast,Drama,Variant_A,Cast Ensemble,5022,278,Churned,9.1
+710,Documentary Lover,Action,Variant_C,Solo Lead/Moody,6114,1083,Active,168.0
+711,Sci-Fi Enthusiast,Documentary,Variant_A,Solo Lead/Moody,5438,708,Churned,18.4
+712,Comedy Buff,Action,Variant_A,Cast Ensemble,5591,818,Active,135.7
+713,Sci-Fi Enthusiast,Sci-Fi,Variant_B,Couple/Intimacy,5101,334,Churned,8.8
+714,Action Seeker,Drama,Variant_C,Cast Ensemble,3532,182,Churned,15.3
+715,Comedy Buff,Documentary,Variant_A,Explosion/Action,5173,271,Churned,13.9
+716,Action Seeker,Comedy,Variant_D,Explosion/Action,6489,999,Active,129.3
+717,Documentary Lover,Sci-Fi,Variant_B,Cast Ensemble,4896,164,Churned,14.1
+718,Documentary Lover,Sci-Fi,Variant_D,Explosion/Action,6661,334,Churned,16.2
+719,Action Seeker,Documentary,Variant_D,Solo Lead/Moody,3739,463,Churned,13.1
+720,Documentary Lover,Action,Variant_D,Cast Ensemble,4682,294,Churned,17.8
+721,Action Seeker,Sci-Fi,Variant_A,Solo Lead/Moody,3888,359,Churned,17.5
+722,Sci-Fi Enthusiast,Drama,Variant_B,Solo Lead/Moody,6140,404,Churned,9.9
+723,Sci-Fi Enthusiast,Action,Variant_B,Explosion/Action,4189,743,Active,144.1
+724,Action Seeker,Documentary,Variant_A,Cast Ensemble,5466,327,Churned,14.6
+725,Documentary Lover,Drama,Variant_D,Explosion/Action,4680,241,Churned,10.8
+726,Sci-Fi Enthusiast,Action,Variant_C,Couple/Intimacy,7089,240,Churned,15.9
+727,Comedy Buff,Sci-Fi,Variant_B,Explosion/Action,7023,351,Churned,14.0
+728,Documentary Lover,Sci-Fi,Variant_D,Explosion/Action,4642,223,Churned,21.9
+729,Action Seeker,Sci-Fi,Variant_D,Explosion/Action,2788,516,Active,114.4
+730,Action Seeker,Sci-Fi,Variant_A,Explosion/Action,4733,784,Active,164.7
+731,Sci-Fi Enthusiast,Sci-Fi,Variant_C,Couple/Intimacy,3401,185,Churned,25.1
+732,Action Seeker,Comedy,Variant_C,Cast Ensemble,3636,406,Churned,11.7
+733,Action Seeker,Comedy,Variant_D,Solo Lead/Moody,5425,272,Churned,11.8
+734,Sci-Fi Enthusiast,Sci-Fi,Variant_B,Cast Ensemble,5487,373,Churned,14.0
+735,Comedy Buff,Drama,Variant_C,Cast Ensemble,5719,783,Active,126.1
+736,Documentary Lover,Action,Variant_B,Explosion/Action,5472,683,Churned,16.8
+737,Documentary Lover,Documentary,Variant_A,Explosion/Action,4686,234,Churned,8.7
+738,Documentary Lover,Comedy,Variant_A,Explosion/Action,5604,329,Active,138.7
+739,Sci-Fi Enthusiast,Action,Variant_D,Couple/Intimacy,4529,238,Churned,12.8
+740,Sci-Fi Enthusiast,Drama,Variant_A,Explosion/Action,4933,744,Churned,13.8
+741,Action Seeker,Drama,Variant_B,Couple/Intimacy,4641,480,Churned,18.7
+742,Documentary Lover,Sci-Fi,Variant_D,Solo Lead/Moody,4818,980,Active,183.0
+743,Action Seeker,Action,Variant_B,Solo Lead/Moody,6419,282,Churned,5.7
+744,Comedy Buff,Comedy,Variant_D,Couple/Intimacy,6007,259,Active,169.8
+745,Comedy Buff,Drama,Variant_C,Couple/Intimacy,3029,360,Churned,8.9
+746,Comedy Buff,Comedy,Variant_B,Couple/Intimacy,5730,287,Churned,10.2
+747,Comedy Buff,Sci-Fi,Variant_C,Explosion/Action,4592,261,Churned,15.5
+748,Action Seeker,Drama,Variant_C,Explosion/Action,5584,1059,Active,110.9
+749,Sci-Fi Enthusiast,Sci-Fi,Variant_D,Couple/Intimacy,6617,337,Active,127.5
+750,Sci-Fi Enthusiast,Documentary,Variant_C,Couple/Intimacy,3669,176,Churned,19.6
+751,Comedy Buff,Documentary,Variant_A,Solo Lead/Moody,4872,706,Churned,7.7
+752,Sci-Fi Enthusiast,Comedy,Variant_D,Cast Ensemble,4987,486,Churned,16.8
+753,Documentary Lover,Drama,Variant_D,Couple/Intimacy,5886,622,Churned,2.0
+754,Comedy Buff,Sci-Fi,Variant_D,Explosion/Action,5198,282,Churned,17.0
+755,Comedy Buff,Drama,Variant_A,Cast Ensemble,6235,868,Active,167.0
+756,Documentary Lover,Drama,Variant_D,Couple/Intimacy,6192,570,Churned,16.6
+757,Comedy Buff,Drama,Variant_B,Couple/Intimacy,4495,490,Churned,16.7
+758,Documentary Lover,Sci-Fi,Variant_B,Couple/Intimacy,4512,195,Churned,15.2
+759,Sci-Fi Enthusiast,Action,Variant_A,Explosion/Action,3912,700,Active,167.0
+760,Comedy Buff,Documentary,Variant_B,Solo Lead/Moody,3851,526,Active,161.6
+761,Action Seeker,Documentary,Variant_A,Couple/Intimacy,3274,141,Churned,21.0
+762,Sci-Fi Enthusiast,Drama,Variant_C,Explosion/Action,4018,503,Churned,17.3
+763,Comedy Buff,Sci-Fi,Variant_C,Couple/Intimacy,5783,274,Churned,12.0
+764,Sci-Fi Enthusiast,Drama,Variant_B,Explosion/Action,6422,946,Active,174.5
+765,Action Seeker,Sci-Fi,Variant_C,Couple/Intimacy,5085,213,Churned,10.8
+766,Comedy Buff,Comedy,Variant_C,Solo Lead/Moody,5522,299,Churned,22.0
+767,Action Seeker,Drama,Variant_A,Cast Ensemble,5650,197,Churned,20.3
+768,Action Seeker,Documentary,Variant_B,Cast Ensemble,4001,184,Churned,16.3
+769,Comedy Buff,Action,Variant_A,Explosion/Action,6995,986,Churned,18.0
+770,Comedy Buff,Sci-Fi,Variant_C,Explosion/Action,4816,266,Churned,19.4
+771,Comedy Buff,Documentary,Variant_C,Cast Ensemble,4679,785,Churned,16.2
+772,Documentary Lover,Drama,Variant_A,Cast Ensemble,5497,311,Active,160.5
+773,Documentary Lover,Action,Variant_A,Couple/Intimacy,5838,255,Churned,12.2
+774,Action Seeker,Sci-Fi,Variant_B,Cast Ensemble,3899,212,Churned,18.9
+775,Comedy Buff,Sci-Fi,Variant_A,Cast Ensemble,5457,909,Active,149.9
+776,Comedy Buff,Drama,Variant_A,Couple/Intimacy,5668,561,Churned,13.1
+777,Action Seeker,Action,Variant_D,Explosion/Action,5695,1358,Active,142.7
+778,Sci-Fi Enthusiast,Action,Variant_A,Cast Ensemble,4928,171,Churned,13.2
+779,Sci-Fi Enthusiast,Drama,Variant_A,Cast Ensemble,5890,328,Churned,17.5
+780,Sci-Fi Enthusiast,Comedy,Variant_C,Cast Ensemble,5049,555,Churned,11.7
+781,Action Seeker,Action,Variant_D,Cast Ensemble,5698,308,Churned,17.5
+782,Documentary Lover,Documentary,Variant_D,Solo Lead/Moody,4473,1021,Churned,20.5
+783,Documentary Lover,Comedy,Variant_C,Cast Ensemble,4521,458,Churned,18.5
+784,Documentary Lover,Sci-Fi,Variant_A,Cast Ensemble,4607,279,Churned,18.1
+785,Action Seeker,Drama,Variant_A,Solo Lead/Moody,5683,206,Churned,21.1
+786,Comedy Buff,Documentary,Variant_D,Couple/Intimacy,5261,243,Active,153.6
+787,Documentary Lover,Drama,Variant_C,Couple/Intimacy,3223,367,Active,124.3
+788,Sci-Fi Enthusiast,Drama,Variant_D,Cast Ensemble,3647,126,Churned,20.6
+789,Sci-Fi Enthusiast,Comedy,Variant_A,Couple/Intimacy,4370,285,Churned,12.3
+790,Action Seeker,Comedy,Variant_C,Couple/Intimacy,3292,127,Churned,21.2
+791,Documentary Lover,Sci-Fi,Variant_C,Cast Ensemble,4844,215,Churned,15.8
+792,Comedy Buff,Action,Variant_D,Solo Lead/Moody,5501,336,Churned,22.2
+793,Comedy Buff,Drama,Variant_B,Solo Lead/Moody,4640,170,Churned,12.9
+794,Action Seeker,Documentary,Variant_A,Solo Lead/Moody,5260,633,Churned,10.2
+795,Documentary Lover,Action,Variant_C,Solo Lead/Moody,5343,905,Active,150.8
+796,Comedy Buff,Action,Variant_D,Explosion/Action,4241,456,Churned,10.4
+797,Comedy Buff,Action,Variant_A,Couple/Intimacy,5890,355,Churned,5.8
+798,Sci-Fi Enthusiast,Comedy,Variant_B,Couple/Intimacy,4070,142,Churned,11.7
+799,Sci-Fi Enthusiast,Sci-Fi,Variant_A,Cast Ensemble,4916,174,Churned,10.4
+800,Action Seeker,Drama,Variant_B,Cast Ensemble,3996,208,Churned,15.3
+801,Action Seeker,Documentary,Variant_C,Explosion/Action,4278,734,Active,136.3
+802,Comedy Buff,Documentary,Variant_D,Cast Ensemble,4728,788,Active,183.5
+803,Sci-Fi Enthusiast,Documentary,Variant_B,Couple/Intimacy,3700,215,Churned,19.1
+804,Documentary Lover,Drama,Variant_B,Explosion/Action,3851,224,Churned,22.7
+805,Sci-Fi Enthusiast,Documentary,Variant_D,Couple/Intimacy,3877,158,Active,175.4
+806,Comedy Buff,Documentary,Variant_A,Couple/Intimacy,5271,292,Churned,16.7
+807,Comedy Buff,Action,Variant_D,Explosion/Action,5390,521,Churned,20.2
+808,Sci-Fi Enthusiast,Comedy,Variant_A,Solo Lead/Moody,6169,294,Churned,14.8
+809,Comedy Buff,Drama,Variant_B,Explosion/Action,3468,191,Churned,17.9
+810,Comedy Buff,Drama,Variant_A,Solo Lead/Moody,4937,302,Churned,13.3
+811,Documentary Lover,Drama,Variant_D,Solo Lead/Moody,5564,889,Active,149.4
+812,Comedy Buff,Action,Variant_D,Cast Ensemble,4825,734,Active,140.8
+813,Documentary Lover,Action,Variant_B,Couple/Intimacy,4868,283,Active,139.1
+814,Comedy Buff,Documentary,Variant_B,Couple/Intimacy,3393,229,Active,184.5
+815,Sci-Fi Enthusiast,Documentary,Variant_D,Solo Lead/Moody,3707,507,Churned,12.5
+816,Action Seeker,Action,Variant_D,Couple/Intimacy,5263,278,Churned,13.8
+817,Action Seeker,Sci-Fi,Variant_B,Cast Ensemble,4216,181,Active,127.1
+818,Documentary Lover,Documentary,Variant_A,Couple/Intimacy,4168,205,Active,132.1
+819,Comedy Buff,Documentary,Variant_D,Cast Ensemble,5682,936,Active,135.5
+820,Comedy Buff,Sci-Fi,Variant_B,Explosion/Action,5239,288,Churned,17.4
+821,Action Seeker,Action,Variant_B,Couple/Intimacy,5075,291,Churned,17.4
+822,Documentary Lover,Drama,Variant_B,Solo Lead/Moody,3762,672,Active,172.2
+823,Comedy Buff,Action,Variant_A,Couple/Intimacy,4236,213,Churned,18.4
+824,Documentary Lover,Sci-Fi,Variant_A,Couple/Intimacy,4790,290,Churned,26.8
+825,Action Seeker,Documentary,Variant_A,Couple/Intimacy,4214,152,Churned,16.5
+826,Sci-Fi Enthusiast,Drama,Variant_A,Cast Ensemble,5721,272,Churned,22.3
+827,Documentary Lover,Drama,Variant_A,Explosion/Action,3661,208,Churned,12.0
+828,Comedy Buff,Sci-Fi,Variant_D,Couple/Intimacy,6719,469,Churned,11.2
+829,Action Seeker,Action,Variant_C,Cast Ensemble,4450,260,Churned,13.1
+830,Comedy Buff,Action,Variant_B,Cast Ensemble,4954,744,Active,102.0
+831,Action Seeker,Comedy,Variant_B,Cast Ensemble,4986,514,Churned,12.5
+832,Sci-Fi Enthusiast,Drama,Variant_A,Cast Ensemble,6443,241,Churned,19.1
+833,Documentary Lover,Comedy,Variant_D,Solo Lead/Moody,4721,789,Active,169.8
+834,Action Seeker,Drama,Variant_C,Solo Lead/Moody,5340,297,Churned,19.8
+835,Action Seeker,Drama,Variant_C,Solo Lead/Moody,4668,204,Churned,9.6
+836,Action Seeker,Documentary,Variant_D,Explosion/Action,4174,832,Active,181.1
+837,Action Seeker,Comedy,Variant_C,Solo Lead/Moody,3648,134,Churned,17.4
+838,Action Seeker,Documentary,Variant_A,Couple/Intimacy,5547,307,Churned,13.7
+839,Documentary Lover,Sci-Fi,Variant_B,Explosion/Action,4874,259,Churned,15.4
+840,Sci-Fi Enthusiast,Documentary,Variant_D,Cast Ensemble,2780,132,Churned,10.7
+841,Documentary Lover,Action,Variant_D,Cast Ensemble,5175,413,Active,159.2
+842,Documentary Lover,Comedy,Variant_A,Cast Ensemble,4686,558,Churned,17.4
+843,Action Seeker,Drama,Variant_C,Cast Ensemble,5420,303,Churned,25.3
+844,Documentary Lover,Action,Variant_D,Cast Ensemble,3869,211,Active,126.8
+845,Comedy Buff,Documentary,Variant_A,Couple/Intimacy,5555,226,Churned,12.9
+846,Sci-Fi Enthusiast,Comedy,Variant_B,Cast Ensemble,4704,563,Churned,19.6
+847,Sci-Fi Enthusiast,Comedy,Variant_D,Solo Lead/Moody,3754,189,Churned,11.5
+848,Action Seeker,Drama,Variant_B,Cast Ensemble,3741,178,Churned,13.5
+849,Sci-Fi Enthusiast,Sci-Fi,Variant_C,Solo Lead/Moody,7426,700,Churned,8.1
+850,Comedy Buff,Documentary,Variant_B,Explosion/Action,4435,267,Churned,25.4
+851,Sci-Fi Enthusiast,Comedy,Variant_B,Explosion/Action,3414,379,Active,196.8
+852,Sci-Fi Enthusiast,Drama,Variant_C,Solo Lead/Moody,5389,222,Churned,17.7
+853,Comedy Buff,Drama,Variant_C,Explosion/Action,2364,118,Churned,16.6
+854,Action Seeker,Documentary,Variant_C,Explosion/Action,5924,947,Active,152.1
+855,Sci-Fi Enthusiast,Action,Variant_A,Solo Lead/Moody,4074,214,Active,127.6
+856,Documentary Lover,Documentary,Variant_C,Explosion/Action,4591,183,Churned,18.3
+857,Sci-Fi Enthusiast,Comedy,Variant_B,Solo Lead/Moody,5858,279,Active,151.0
+858,Comedy Buff,Sci-Fi,Variant_B,Explosion/Action,3551,166,Churned,14.7
+859,Documentary Lover,Drama,Variant_C,Couple/Intimacy,7620,753,Churned,22.3
+860,Documentary Lover,Action,Variant_B,Couple/Intimacy,5996,316,Churned,23.8
+861,Comedy Buff,Documentary,Variant_B,Couple/Intimacy,5372,289,Churned,14.7
+862,Comedy Buff,Documentary,Variant_A,Cast Ensemble,6223,1001,Churned,11.9
+863,Action Seeker,Drama,Variant_A,Cast Ensemble,3680,176,Churned,11.0
+864,Comedy Buff,Drama,Variant_C,Explosion/Action,4936,307,Churned,12.7
+865,Comedy Buff,Action,Variant_B,Solo Lead/Moody,4957,250,Churned,19.2
+866,Documentary Lover,Sci-Fi,Variant_D,Explosion/Action,2753,120,Churned,16.1
+867,Sci-Fi Enthusiast,Drama,Variant_C,Explosion/Action,6200,775,Churned,5.6
+868,Documentary Lover,Action,Variant_A,Explosion/Action,5619,582,Churned,9.1
+869,Sci-Fi Enthusiast,Sci-Fi,Variant_B,Explosion/Action,4375,560,Active,134.9
+870,Comedy Buff,Comedy,Variant_C,Couple/Intimacy,2794,164,Churned,21.4
+871,Documentary Lover,Comedy,Variant_D,Solo Lead/Moody,5651,896,Active,145.0
+872,Action Seeker,Action,Variant_B,Explosion/Action,4993,1178,Active,166.7
+873,Comedy Buff,Comedy,Variant_D,Solo Lead/Moody,4265,216,Churned,17.3
+874,Documentary Lover,Drama,Variant_B,Cast Ensemble,6455,368,Churned,18.9
+875,Documentary Lover,Drama,Variant_D,Explosion/Action,5083,325,Churned,17.0
+876,Documentary Lover,Action,Variant_A,Couple/Intimacy,4138,264,Churned,18.5
+877,Documentary Lover,Drama,Variant_C,Explosion/Action,4556,205,Churned,16.5
+878,Sci-Fi Enthusiast,Action,Variant_A,Couple/Intimacy,5463,283,Active,157.8
+879,Comedy Buff,Action,Variant_A,Explosion/Action,6699,808,Churned,16.0
+880,Comedy Buff,Comedy,Variant_C,Solo Lead/Moody,5941,235,Churned,17.0
+881,Action Seeker,Sci-Fi,Variant_C,Couple/Intimacy,6809,325,Churned,10.8
+882,Documentary Lover,Comedy,Variant_C,Solo Lead/Moody,4347,691,Active,130.4
+883,Action Seeker,Action,Variant_A,Explosion/Action,4629,999,Active,150.4
+884,Action Seeker,Documentary,Variant_B,Solo Lead/Moody,5902,713,Churned,22.6
+885,Action Seeker,Sci-Fi,Variant_A,Couple/Intimacy,5510,332,Churned,11.7
+886,Comedy Buff,Comedy,Variant_C,Solo Lead/Moody,5854,228,Churned,19.5
+887,Action Seeker,Comedy,Variant_D,Solo Lead/Moody,5171,287,Churned,9.1
+888,Action Seeker,Action,Variant_B,Couple/Intimacy,4104,229,Churned,10.3
+889,Documentary Lover,Documentary,Variant_C,Cast Ensemble,5463,198,Active,171.2
+890,Action Seeker,Sci-Fi,Variant_A,Cast Ensemble,3767,209,Churned,18.1
+891,Action Seeker,Drama,Variant_A,Cast Ensemble,4303,240,Churned,16.3
+892,Sci-Fi Enthusiast,Sci-Fi,Variant_C,Couple/Intimacy,4461,178,Active,100.9
+893,Action Seeker,Comedy,Variant_B,Couple/Intimacy,5349,183,Churned,15.5
+894,Action Seeker,Documentary,Variant_B,Couple/Intimacy,4736,268,Active,142.4
+895,Comedy Buff,Comedy,Variant_D,Explosion/Action,4670,267,Churned,16.7
+896,Comedy Buff,Drama,Variant_D,Couple/Intimacy,5316,609,Churned,7.3
+897,Documentary Lover,Drama,Variant_D,Explosion/Action,5756,323,Churned,9.9
+898,Comedy Buff,Comedy,Variant_D,Couple/Intimacy,4755,235,Churned,14.3
+899,Action Seeker,Comedy,Variant_C,Explosion/Action,5333,982,Active,177.0
+900,Comedy Buff,Sci-Fi,Variant_A,Couple/Intimacy,3687,207,Churned,21.6
+901,Action Seeker,Drama,Variant_A,Explosion/Action,5386,974,Churned,25.1
+902,Action Seeker,Comedy,Variant_A,Explosion/Action,6023,1038,Active,176.1
+903,Documentary Lover,Sci-Fi,Variant_C,Couple/Intimacy,5144,258,Churned,13.2
+904,Action Seeker,Action,Variant_B,Couple/Intimacy,6563,274,Churned,22.7
+905,Action Seeker,Action,Variant_B,Solo Lead/Moody,5499,198,Active,159.2
+906,Documentary Lover,Drama,Variant_C,Solo Lead/Moody,2899,510,Active,172.1
+907,Comedy Buff,Action,Variant_B,Cast Ensemble,4407,666,Active,198.9
+908,Comedy Buff,Sci-Fi,Variant_D,Explosion/Action,4494,177,Churned,22.4
+909,Action Seeker,Documentary,Variant_C,Cast Ensemble,6962,348,Active,175.3
+910,Sci-Fi Enthusiast,Documentary,Variant_A,Solo Lead/Moody,6341,777,Churned,12.6
+911,Action Seeker,Sci-Fi,Variant_B,Cast Ensemble,6230,416,Active,164.1
+912,Action Seeker,Documentary,Variant_C,Explosion/Action,4120,782,Active,136.7
+913,Action Seeker,Comedy,Variant_D,Cast Ensemble,4664,529,Churned,22.8
+914,Documentary Lover,Sci-Fi,Variant_C,Explosion/Action,5853,316,Active,161.6
+915,Action Seeker,Documentary,Variant_B,Solo Lead/Moody,5043,683,Churned,2.4
+916,Sci-Fi Enthusiast,Sci-Fi,Variant_B,Explosion/Action,4703,622,Churned,9.2
+917,Action Seeker,Documentary,Variant_A,Couple/Intimacy,5386,258,Churned,23.8
+918,Sci-Fi Enthusiast,Drama,Variant_B,Explosion/Action,6573,823,Active,146.2
+919,Comedy Buff,Comedy,Variant_B,Cast Ensemble,4926,1012,Active,154.9
+920,Sci-Fi Enthusiast,Comedy,Variant_D,Solo Lead/Moody,4241,164,Churned,18.1
+921,Sci-Fi Enthusiast,Documentary,Variant_A,Couple/Intimacy,5629,236,Churned,19.5
+922,Comedy Buff,Sci-Fi,Variant_B,Solo Lead/Moody,4368,404,Churned,19.1
+923,Action Seeker,Documentary,Variant_A,Cast Ensemble,4966,270,Churned,12.4
+924,Action Seeker,Drama,Variant_B,Solo Lead/Moody,4803,230,Churned,11.3
+925,Documentary Lover,Documentary,Variant_D,Cast Ensemble,4823,166,Churned,12.5
+926,Comedy Buff,Sci-Fi,Variant_A,Solo Lead/Moody,4715,412,Churned,13.8
+927,Sci-Fi Enthusiast,Documentary,Variant_D,Couple/Intimacy,4938,270,Churned,19.4
+928,Comedy Buff,Action,Variant_B,Cast Ensemble,4350,600,Active,123.9
+929,Comedy Buff,Documentary,Variant_C,Cast Ensemble,4512,660,Active,130.8
+930,Action Seeker,Drama,Variant_C,Explosion/Action,3703,612,Active,154.5
+931,Documentary Lover,Drama,Variant_C,Solo Lead/Moody,5595,919,Active,139.7
+932,Comedy Buff,Drama,Variant_B,Cast Ensemble,4073,609,Active,128.8
+933,Action Seeker,Comedy,Variant_C,Solo Lead/Moody,5573,179,Churned,13.2
+934,Action Seeker,Documentary,Variant_A,Solo Lead/Moody,5301,698,Churned,28.5
+935,Documentary Lover,Comedy,Variant_A,Explosion/Action,5349,213,Churned,14.5
+936,Action Seeker,Drama,Variant_B,Solo Lead/Moody,3223,158,Churned,10.8
+937,Comedy Buff,Sci-Fi,Variant_A,Cast Ensemble,5915,854,Active,147.1
+938,Documentary Lover,Documentary,Variant_A,Couple/Intimacy,4364,294,Active,142.0
+939,Documentary Lover,Sci-Fi,Variant_A,Explosion/Action,6832,397,Churned,17.4
+940,Comedy Buff,Sci-Fi,Variant_C,Couple/Intimacy,5368,289,Churned,5.4
+941,Sci-Fi Enthusiast,Sci-Fi,Variant_B,Explosion/Action,4721,653,Churned,14.8
+942,Sci-Fi Enthusiast,Action,Variant_A,Solo Lead/Moody,3594,177,Churned,23.5
+943,Action Seeker,Comedy,Variant_A,Solo Lead/Moody,6246,308,Churned,19.8
+944,Sci-Fi Enthusiast,Comedy,Variant_A,Couple/Intimacy,4633,152,Churned,10.4
+945,Sci-Fi Enthusiast,Sci-Fi,Variant_B,Explosion/Action,6562,835,Active,143.9
+946,Documentary Lover,Drama,Variant_B,Explosion/Action,4700,324,Churned,23.1
+947,Comedy Buff,Action,Variant_D,Cast Ensemble,7218,1071,Active,157.4
+948,Documentary Lover,Drama,Variant_D,Solo Lead/Moody,3483,643,Active,120.8
+949,Action Seeker,Comedy,Variant_C,Solo Lead/Moody,5216,203,Churned,12.1
+950,Action Seeker,Action,Variant_C,Couple/Intimacy,4162,182,Churned,12.3
+951,Documentary Lover,Action,Variant_C,Solo Lead/Moody,4451,793,Churned,9.5
+952,Action Seeker,Action,Variant_A,Cast Ensemble,5220,324,Churned,12.4
+953,Sci-Fi Enthusiast,Drama,Variant_B,Solo Lead/Moody,4282,204,Active,179.5
+954,Documentary Lover,Documentary,Variant_C,Cast Ensemble,5194,232,Churned,17.4
+955,Comedy Buff,Drama,Variant_B,Cast Ensemble,3897,611,Active,160.2
+956,Comedy Buff,Documentary,Variant_B,Solo Lead/Moody,4692,570,Churned,10.6
+957,Documentary Lover,Documentary,Variant_C,Solo Lead/Moody,5534,1451,Active,134.1
+958,Action Seeker,Drama,Variant_B,Cast Ensemble,5458,158,Churned,12.1
+959,Action Seeker,Documentary,Variant_D,Cast Ensemble,4968,203,Churned,10.3
+960,Comedy Buff,Sci-Fi,Variant_D,Cast Ensemble,4332,662,Active,145.3
+961,Comedy Buff,Comedy,Variant_D,Explosion/Action,2761,79,Churned,12.0
+962,Sci-Fi Enthusiast,Documentary,Variant_A,Explosion/Action,5457,559,Active,137.5
+963,Sci-Fi Enthusiast,Comedy,Variant_B,Solo Lead/Moody,4473,285,Churned,13.1
+964,Documentary Lover,Documentary,Variant_A,Explosion/Action,5382,276,Churned,4.3
+965,Sci-Fi Enthusiast,Documentary,Variant_D,Solo Lead/Moody,5768,762,Churned,17.5
+966,Documentary Lover,Documentary,Variant_C,Cast Ensemble,8926,260,Churned,23.6
+967,Sci-Fi Enthusiast,Drama,Variant_D,Solo Lead/Moody,4712,249,Active,148.9
+968,Action Seeker,Documentary,Variant_B,Explosion/Action,4575,751,Active,158.2
+969,Action Seeker,Action,Variant_B,Couple/Intimacy,3482,200,Churned,12.9
+970,Comedy Buff,Action,Variant_C,Cast Ensemble,3869,562,Active,181.4
+971,Action Seeker,Action,Variant_C,Solo Lead/Moody,4464,239,Churned,11.3
+972,Comedy Buff,Drama,Variant_A,Solo Lead/Moody,5757,327,Churned,24.2
+973,Comedy Buff,Drama,Variant_D,Couple/Intimacy,4824,562,Churned,15.5
+974,Documentary Lover,Documentary,Variant_C,Couple/Intimacy,6295,269,Churned,18.7
+975,Sci-Fi Enthusiast,Sci-Fi,Variant_A,Couple/Intimacy,4805,237,Churned,15.5
+976,Documentary Lover,Comedy,Variant_A,Solo Lead/Moody,5252,886,Active,155.4
+977,Sci-Fi Enthusiast,Comedy,Variant_D,Explosion/Action,6578,919,Active,171.7
+978,Documentary Lover,Drama,Variant_B,Couple/Intimacy,4544,459,Churned,19.8
+979,Comedy Buff,Drama,Variant_D,Couple/Intimacy,5876,732,Churned,12.0
+980,Sci-Fi Enthusiast,Action,Variant_A,Solo Lead/Moody,4770,160,Churned,13.0
+981,Comedy Buff,Documentary,Variant_C,Cast Ensemble,5996,871,Active,166.0
+982,Sci-Fi Enthusiast,Sci-Fi,Variant_D,Solo Lead/Moody,4809,448,Churned,9.3
+983,Comedy Buff,Sci-Fi,Variant_A,Solo Lead/Moody,5085,305,Churned,14.1
+984,Action Seeker,Documentary,Variant_D,Cast Ensemble,3369,209,Churned,18.9
+985,Action Seeker,Drama,Variant_A,Couple/Intimacy,5466,684,Active,126.3
+986,Action Seeker,Drama,Variant_A,Cast Ensemble,6747,400,Active,144.1
+987,Comedy Buff,Comedy,Variant_D,Explosion/Action,6135,238,Churned,10.9
+988,Sci-Fi Enthusiast,Comedy,Variant_C,Solo Lead/Moody,4391,196,Churned,9.7
+989,Documentary Lover,Drama,Variant_C,Cast Ensemble,6223,295,Churned,16.8
+990,Action Seeker,Sci-Fi,Variant_C,Couple/Intimacy,4429,140,Active,156.8
+991,Action Seeker,Documentary,Variant_A,Explosion/Action,3087,522,Active,115.8
+992,Documentary Lover,Action,Variant_B,Couple/Intimacy,6987,413,Churned,15.5
+993,Comedy Buff,Drama,Variant_C,Explosion/Action,6263,260,Churned,17.7
+994,Documentary Lover,Documentary,Variant_B,Couple/Intimacy,5199,273,Churned,21.4
+995,Documentary Lover,Action,Variant_B,Couple/Intimacy,5732,303,Churned,6.7
+996,Sci-Fi Enthusiast,Documentary,Variant_C,Couple/Intimacy,4039,196,Churned,15.5
+997,Comedy Buff,Action,Variant_D,Solo Lead/Moody,3869,286,Churned,22.6
+998,Comedy Buff,Documentary,Variant_B,Cast Ensemble,5602,844,Active,144.7
+999,Sci-Fi Enthusiast,Drama,Variant_C,Couple/Intimacy,4048,448,Churned,16.3
+1000,Documentary Lover,Sci-Fi,Variant_C,Cast Ensemble,3758,200,Churned,14.2
