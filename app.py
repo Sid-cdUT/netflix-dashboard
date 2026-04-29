@@ -358,7 +358,10 @@ with tab1:
         ))
         fig_heat.update_layout(
             title="Segment × Visual Focus — Avg CTR",
-            **PLOTLY_LAYOUT,
+            paper_bgcolor="rgba(0,0,0,0)",
+            plot_bgcolor="#1A1A1A",
+            font=dict(family="DM Sans", color="#E5E5E5", size=12),
+            margin=dict(l=20, r=20, t=50, b=20),
             xaxis=dict(title="Visual Focus", tickangle=-20, gridcolor="#2A2A2A", linecolor="#333"),
             yaxis=dict(title="User Segment", gridcolor="#2A2A2A", linecolor="#333"),
             height=340,
