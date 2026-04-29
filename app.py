@@ -250,8 +250,6 @@ PLOTLY_LAYOUT = dict(
     title_font=dict(family="DM Sans", color=WHITE, size=14),
     legend=dict(bgcolor="rgba(0,0,0,0)", font=dict(color=OFF_WHITE, size=11)),
     margin=dict(l=20, r=20, t=50, b=20),
-    xaxis=dict(gridcolor="#2A2A2A", linecolor="#333", tickcolor="#666"),
-    yaxis=dict(gridcolor="#2A2A2A", linecolor="#333", tickcolor="#666"),
 )
 
 # ── Header ────────────────────────────────────────────────────────────────────
