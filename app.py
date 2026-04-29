@@ -248,7 +248,6 @@ PLOTLY_LAYOUT = dict(
     plot_bgcolor="#1A1A1A",
     font=dict(family="DM Sans", color=OFF_WHITE, size=12),
     title_font=dict(family="DM Sans", color=WHITE, size=14),
-    legend=dict(bgcolor="rgba(0,0,0,0)", font=dict(color=OFF_WHITE, size=11)),
     margin=dict(l=20, r=20, t=50, b=20),
 )
 
