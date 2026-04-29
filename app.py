@@ -486,7 +486,7 @@ with tab2:
                     marker_color=color_map[status],
                     boxmean=True,
                     line=dict(color=color_map[status]),
-                    fillcolor=color_map[status] + "44",
+                    fillcolor=color_map[status],
                     hovertemplate=f"<b>{status}</b><br>CTR: %{{y:.1f}}%<extra></extra>",
                 ))
         fig_box.update_layout(
@@ -575,7 +575,7 @@ with tab3:
                     marker_color=color,
                     boxmean=True,
                     line=dict(color=color),
-                    fillcolor=color + "44",
+                    fillcolor=color,
                     hovertemplate=f"<b>{label}</b><br>CTR: %{{y:.1f}}%<extra></extra>",
                 ))
         fig_match_box.update_layout(
